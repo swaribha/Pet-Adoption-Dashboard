@@ -1,0 +1,638 @@
+pet_name,pet_gender,pet_age,location,link,pet_breed,pet_color,pet_id,pet_hair,pet_rescue,pet_address,Spayed,Neutered,Spayed / Neutered,Shots Up to Date,Has Special Needs,Declawed,Not Good with Kids,Good with Kids,House-trained,Good with Cats,Not Good with Cats,Good with Dogs,Not Good with Dogs,Needs Experienced Adopter
+Gia,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/24654774-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,F057-19,short,Help Save Pets - Chicago,"511 W. North Ave., Chicago, IL 60610",Yes,,,Yes,,,,,,,,,,
+ADOPTED!!!   Jarvis,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/24654740-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,F045-19,short,Help Save Pets - Chicago,"511 W. North Ave., Chicago, IL 60610",,Yes,,Yes,,,,,,,,,,
+ADOPTED!!!   Tim,Male,kitten,"Chicago, IL",https://www.adoptapet.com/pet/24654762-chicago-illinois-kitten,Domestic Shorthair,All Black,F046-19,short,Help Save Pets - Chicago,"511 W. North Ave., Chicago, IL 60610",,Yes,,Yes,,,,,,,,,,
+Max,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25362912-chicago-illinois-cat,Domestic Shorthair,Orange or Red,41083521,,The Anti-Cruelty Society,"Chicago, IL",,Yes,,,,,,,Yes,,,,,
+Princess,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25251906-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,41550847,,The Anti-Cruelty Society,"Chicago, IL",Yes,,,,,,,,Yes,,,,,
+Liam,Male,senior,"Chicago, IL",https://www.adoptapet.com/pet/25379820-chicago-illinois-cat,Domestic Shorthair,Brown or Chocolate,41656240,,The Anti-Cruelty Society,"Chicago, IL",,Yes,,,,,,,Yes,,,,,
+Mikey,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25159328-chicago-illinois-cat,Domestic Shorthair,Brown or Chocolate,41377173,,The Anti-Cruelty Society,"Chicago, IL",,Yes,,,,,,,,,,,,
+Mojito,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/25499234-chicago-illinois-cat,Domestic Shorthair,All Black,41544100,,The Anti-Cruelty Society,"Chicago, IL",,Yes,,,,,,,,,,,,
+Blue,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/25499236-chicago-illinois-cat,Domestic Shorthair,All Black,41544092,,The Anti-Cruelty Society,"Chicago, IL",Yes,,,,,,,,,,,,,
+Gordo,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25516001-chicago-illinois-cat,Domestic Shorthair,All Black,41760884,,The Anti-Cruelty Society,"Chicago, IL",,Yes,,,,,,,,,,,,
+Daisy,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25510274-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,41832186,,The Anti-Cruelty Society,"Chicago, IL",Yes,,,,,,,,,,,,,
+Smokey,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25518151-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,41778590,,The Anti-Cruelty Society,"Chicago, IL",,Yes,,,,,,,,,,,,
+Albert,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25518152-chicago-illinois-cat,Domestic Shorthair,All Black,33526301,,The Anti-Cruelty Society,"Chicago, IL",,Yes,,,,,,,,,,,,
+Queen,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/25515826-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,40753055,,The Anti-Cruelty Society,"Chicago, IL",Yes,,,,,,,,,,,,,
+Cuddles,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25510273-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,41832190,,The Anti-Cruelty Society,"Chicago, IL",Yes,,,,,,,,,,,,,
+Snowball,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25510277-chicago-illinois-cat,Domestic Shorthair,Brown or Chocolate,41221606,,The Anti-Cruelty Society,"Chicago, IL",,Yes,,,,,,,,,,,,
+Tiggy,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25525435-chicago-illinois-cat,Domestic Shorthair,Orange or Red,41885192,,The Anti-Cruelty Society,"Chicago, IL",,Yes,,,,,,,,,,,,
+Twin,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25525704-chicago-illinois-cat,Domestic Shorthair,Brown or Chocolate,41832185,,The Anti-Cruelty Society,"Chicago, IL",Yes,,,,,,,,,,,,,
+Mimi,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25363078-chicago-illinois-cat,Domestic Shorthair,White,41761653,,The Anti-Cruelty Society,"Chicago, IL",Yes,,,,,,,,Yes,,,,,
+Rey,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25525706-chicago-illinois-cat,Domestic Shorthair,Brown or Chocolate,41760869,,The Anti-Cruelty Society,"Chicago, IL",,Yes,,,,,,,,,,,,
+Meowster,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25516293-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,41733460,,The Anti-Cruelty Society - PetSmart locations,"Chicago, IL",,Yes,,,,,,,,,,,,
+Simon,Male,senior,"Chicago, IL",https://www.adoptapet.com/pet/25495796-chicago-illinois-cat,Domestic Shorthair,All Black,41724541,,The Anti-Cruelty Society - PetSmart locations,"Chicago, IL",,Yes,,,,,,,Yes,,,,,
+Coral,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25495797-chicago-illinois-cat,Domestic Shorthair,All Black,41724554,,The Anti-Cruelty Society - PetSmart locations,"Chicago, IL",Yes,,,,,,,,,,,,,
+Mitchell,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25495795-chicago-illinois-cat,Domestic Shorthair,All Black,41593008,,The Anti-Cruelty Society - PetSmart locations,"Chicago, IL",,Yes,,,,,,,Yes,,,,,
+Tyler,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25495794-chicago-illinois-cat,Domestic Shorthair,White,25105715,,The Anti-Cruelty Society - PetSmart locations,"Chicago, IL",,Yes,,,,,,,,,,,,
+Facey,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25495793-chicago-illinois-cat,Domestic Shorthair,All Black,41845983,,The Anti-Cruelty Society - PetSmart locations,"Chicago, IL",Yes,,,,,,,,,,,,,
+Lois,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25415910-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,41724571,,The Anti-Cruelty Society - PetSmart locations,"Chicago, IL",Yes,,,,,,,,,,,,,
+Shadow,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25415911-chicago-illinois-cat,Domestic Shorthair,All Black,41724612,,The Anti-Cruelty Society - PetSmart locations,"Chicago, IL",,Yes,,,,,,,,,,,,
+Midnight,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25415912-chicago-illinois-cat,Domestic Shorthair,All Black,41724619,,The Anti-Cruelty Society - PetSmart locations,"Chicago, IL",Yes,,,,,,,,,,,,,
+Veronica,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/24890532-chicago-illinois-cat,Domestic Shorthair,All Black,41112977,,The Anti-Cruelty Society - PetSmart locations,"Chicago, IL",Yes,,,,,,,,Yes,,,,,
+Twinkles,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25362858-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,41684839,,The Anti-Cruelty Society - PetSmart locations,"Chicago, IL",Yes,,,,,Yes,,,,,,,,
+Theo,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25362857-chicago-illinois-cat,Domestic Shorthair,Brown or Chocolate,41724645,,The Anti-Cruelty Society - PetSmart locations,"Chicago, IL",,Yes,,,,,,,Yes,,,,,
+Simba,Male,senior,"Chicago, IL",https://www.adoptapet.com/pet/25362855-chicago-illinois-cat,Domestic Shorthair,Orange or Red,41724531,,The Anti-Cruelty Society - PetSmart locations,"Chicago, IL",,Yes,,,,,,,Yes,,,,,
+Jack,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25362856-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,41724664,,The Anti-Cruelty Society - PetSmart locations,"Chicago, IL",,Yes,,,,,,,Yes,,,,,
+Kitten,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25316253-chicago-illinois-cat,Domestic Shorthair,Orange or Red,41628586,,The Anti-Cruelty Society,"Chicago, IL",Yes,,,,,,,,,,,,,
+Lady,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/22910905-chicago-illinois-cat,Domestic Shorthair,All Black,39199176,,The Anti-Cruelty Society,"Chicago, IL",Yes,,,,,,,,,,,,,
+Tom,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25518153-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,41876924,,The Anti-Cruelty Society,"Chicago, IL",,Yes,,,,,,,,,,,,
+Ickis,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/25525703-chicago-illinois-cat,Domestic Longhair/Domestic Shorthair,All Black,41851635,,The Anti-Cruelty Society,"Chicago, IL",,Yes,,,,,,,,,,,,
+Max,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25525705-chicago-illinois-cat,Bengal/Domestic Shorthair,Gray or Blue,41670167,,The Anti-Cruelty Society,"Chicago, IL",Yes,,,,,,,,,,,,,
+Henry Ford,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/25525707-chicago-illinois-cat,Domestic Shorthair,Brown or Chocolate,41780409,,The Anti-Cruelty Society,"Chicago, IL",,Yes,,,,,,,,,,,,
+Sprinkles,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25234853-chicago-illinois-cat,Domestic Shorthair,Brown or Chocolate,41609997,,The Anti-Cruelty Society - PetSmart locations,"Chicago, IL",Yes,,,,,,,,Yes,,,,,
+Flippy,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25209092-chicago-illinois-cat,Domestic Shorthair,Brown or Chocolate,41560547,,The Anti-Cruelty Society - PetSmart locations,"Chicago, IL",,Yes,,,,,,,Yes,,,,,
+Charlie,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25209089-chicago-illinois-cat,Domestic Shorthair,Orange or Red,41542534,,The Anti-Cruelty Society - PetSmart locations,"Chicago, IL",Yes,,,,,,,,Yes,,,,,
+Kichi,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25176009-chicago-illinois-cat,Domestic Shorthair,All Black,41345142,,The Anti-Cruelty Society - PetSmart locations,"Chicago, IL",Yes,,,,,,,,Yes,,,,,
+Ginger,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25176010-chicago-illinois-cat,Domestic Shorthair,Brown or Chocolate,40828993,,The Anti-Cruelty Society - PetSmart locations,"Chicago, IL",Yes,,,,,,,,Yes,,,,,
+Bella,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/24883463-chicago-illinois-cat,Domestic Shorthair,All Black,41123006,,The Anti-Cruelty Society - PetSmart locations,"Chicago, IL",Yes,,,,,,,,Yes,,,,,
+Macey,Female,senior,"Chicago, IL",https://www.adoptapet.com/pet/25176008-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,41044209,,The Anti-Cruelty Society - PetSmart locations,"Chicago, IL",Yes,,,,,Yes,,,Yes,,,,,
+Lil Baby,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25234854-chicago-illinois-cat,Domestic Shorthair,Brown or Chocolate,40987778,,The Anti-Cruelty Society - PetSmart locations,"Chicago, IL",Yes,,,,,,,,Yes,,,,,
+Phin,Male,senior,"Chicago, IL",https://www.adoptapet.com/pet/25228108-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,9966459,,The Anti-Cruelty Society - Home-to-Home Program,"Chicago, IL",,Yes,,,,,,,Yes,,,,,
+Gwen,Female,senior,"Chicago, IL",https://www.adoptapet.com/pet/25228107-chicago-illinois-cat,Domestic Shorthair,All Black,11242022,,The Anti-Cruelty Society - Home-to-Home Program,"Chicago, IL",Yes,,,,,,,,,,,,,
+Marty,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/24317553-chicago-illinois-cat,Domestic Shorthair,Orange or Red,40573919,,The Anti-Cruelty Society - Home-to-Home Program,"Chicago, IL",,Yes,,,,,,,,,,,,
+Maggie,Female,kitten,"Chicago, IL",https://www.adoptapet.com/pet/24097537-chicago-illinois-kitten,Domestic Shorthair,All Black,40401612,,The Anti-Cruelty Society - Home-to-Home Program,"Chicago, IL",Yes,,,,,,,,,,,,,
+Spicey,Female,senior,"Chicago, IL",https://www.adoptapet.com/pet/25462227-chicago-illinois-cat,Domestic Shorthair,Brown or Chocolate,41727222,,The Anti-Cruelty Society,"Chicago, IL",Yes,,,,,Yes,,,,,,,,
+Missy,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/24456000-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,39913705,,The Anti-Cruelty Society,"Chicago, IL",Yes,,,,,,,,,,,,,
+Scuba,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/25499237-chicago-illinois-cat,Domestic Shorthair,White,41544099,,The Anti-Cruelty Society,"Chicago, IL",,Yes,,,,,,,,,,,,
+Sophia,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25494976-chicago-illinois-cat,Domestic Shorthair,Brown or Chocolate,41823494,,The Anti-Cruelty Society,"Chicago, IL",Yes,,,,,,,,,,,,,
+Molly Malone,Female,senior,"Chicago, IL",https://www.adoptapet.com/pet/25504295-chicago-illinois-cat,Domestic Shorthair,Orange or Red,14251785,,The Anti-Cruelty Society,"Chicago, IL",Yes,,,,,,,,,,,,,
+Sabel,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25503666-chicago-illinois-cat,Domestic Shorthair,All Black,41746293,,The Anti-Cruelty Society,"Chicago, IL",Yes,,,,,,,,,,,,,
+Milo,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25504211-chicago-illinois-cat,Domestic Shorthair,Brown or Chocolate,41782168,,The Anti-Cruelty Society,"Chicago, IL",,Yes,,,,,,,,,,,,
+Panda,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/24686188-chicago-illinois-cat,Domestic Shorthair,White,40773082,,The Anti-Cruelty Society,"Chicago, IL",,Yes,,,,,,,,,,,,
+Zhen,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25504079-chicago-illinois-cat,Domestic Mediumhair/Domestic Shorthair,White,41785136,,The Anti-Cruelty Society,"Chicago, IL",,Yes,,,,,,,,,,,,
+Milo,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/25499235-chicago-illinois-cat,Domestic Shorthair,All Black,41544098,,The Anti-Cruelty Society,"Chicago, IL",,Yes,,,,,,,,,,,,
+Lady,Female,senior,"Chicago, IL",https://www.adoptapet.com/pet/24865097-chicago-illinois-cat,Domestic Mediumhair/Domestic Shorthair,Orange or Red,41048878,,The Anti-Cruelty Society,"Chicago, IL",Yes,,,,,,,,,,,,,
+Rose,Female,senior,"Chicago, IL",https://www.adoptapet.com/pet/25342987-chicago-illinois-cat,Domestic Shorthair,All Black,41663168,,The Anti-Cruelty Society,"Chicago, IL",Yes,,,,,,,,,,,,,
+Minnie,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/24906841-chicago-illinois-cat,Domestic Shorthair,Brown or Chocolate,41113079,,The Anti-Cruelty Society,"Chicago, IL",Yes,,,,,,,,Yes,,,,,
+Beezus,Female,senior,"Chicago, IL",https://www.adoptapet.com/pet/24239004-chicago-illinois-cat,Domestic Shorthair,All Black,9949299,,The Anti-Cruelty Society,"Chicago, IL",Yes,,,,,,,,Yes,,,,,
+Shannon,Female,senior,"Chicago, IL",https://www.adoptapet.com/pet/24817337-chicago-illinois-cat,Domestic Shorthair,White,41048530,,The Anti-Cruelty Society,"Chicago, IL",Yes,,,,,,,,,,,,,
+Hope,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25192346-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,35288162,,The Anti-Cruelty Society,"Chicago, IL",Yes,,,,,,,,Yes,,,,,
+Missy,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/25517105-chicago-illinois-cat,Domestic Mediumhair/Domestic Shorthair,Orange or Red,41833135,,The Anti-Cruelty Society - PetSmart locations,"Chicago, IL",Yes,,,,,,,,,,,,,
+Cal,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25510498-chicago-illinois-cat,Domestic Shorthair,All Black,41802926,,The Anti-Cruelty Society - PetSmart locations,"Chicago, IL",,Yes,,,,,,,,,,,,
+Lola,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25510410-chicago-illinois-cat,Domestic Shorthair,Brown or Chocolate,41778784,,The Anti-Cruelty Society - PetSmart locations,"Chicago, IL",Yes,,,,,,,,,,,,,
+King Nippy,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25510497-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,41778781,,The Anti-Cruelty Society - PetSmart locations,"Chicago, IL",,Yes,,,,,,,,,,,,
+Silver,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25516296-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,41795303,,The Anti-Cruelty Society - PetSmart locations,"Chicago, IL",Yes,,,,,,,,,,,,,
+Charlie,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25516297-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,41800317,,The Anti-Cruelty Society - PetSmart locations,"Chicago, IL",,Yes,,,,Yes,,,,,,,,
+August,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25516295-chicago-illinois-cat,Domestic Shorthair,Tan or Fawn,41739667,,The Anti-Cruelty Society - PetSmart locations,"Chicago, IL",,Yes,,,,,,,,,,,,
+Thanos,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25516294-chicago-illinois-cat,Domestic Mediumhair/Domestic Shorthair,Gray or Blue,41771957,,The Anti-Cruelty Society - PetSmart locations,"Chicago, IL",,Yes,,,,,,,,,,,,
+Koga,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/24458565-chicago-illinois-cat,American Shorthair,Brown Tabby,697092,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,Yes,,,,Yes,Yes,Yes,,Yes,,
+Bené,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/24459188-chicago-illinois-cat,American Shorthair,Brown Tabby,697094,,"Private Owner (Chicago, IL)","Chicago, IL",,,,Yes,,,,Yes,Yes,Yes,,Yes,,
+Milo,Male,senior,"Chicago, IL",https://www.adoptapet.com/pet/24516437-chicago-illinois-cat,American Shorthair,"Gray, Blue or Silver Tabby",708185,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,Yes,,,,,Yes,Yes,,,Yes,
+Delilah,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/24520008-chicago-illinois-cat,Domestic Mediumhair,Tortoiseshell,708875,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,,,,,Yes,Yes,,Yes,,Yes,Yes
+Bebo,Male,senior,"Chicago, IL",https://www.adoptapet.com/pet/24516420-chicago-illinois-cat,American Shorthair,"Gray, Blue or Silver Tabby",708170,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,Yes,,,,,Yes,Yes,,,Yes,
+Wrigley,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/24585762-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,724742,,"Private Owner (Chicago, IL)","Chicago, IL",,,,,,,,Yes,Yes,Yes,,,Yes,
+Leah,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/24585926-chicago-illinois-cat,Domestic Shorthair,All Black,724764,,"Private Owner (Chicago, IL)","Chicago, IL",,,,,,,,Yes,Yes,,,,,
+Ginny,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/24605088-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,728960,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,Yes,,,Yes,,Yes,,,,Yes,
+Mango,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/24642448-chicago-illinois-cat,Domestic Mediumhair,Orange or Red Tabby,737223,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,Yes,,,,Yes,Yes,Yes,,,Yes,
+Nura,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/24664883-chicago-illinois-cat,Egyptian Mau,Spotted Tabby/Leopard Spotted,741797,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,,,,Yes,,Yes,,Yes,,Yes,
+Calvin,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/24694514-chicago-illinois-cat,Domestic Mediumhair,Gray or Blue (Mostly),746166,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,Yes,,,,Yes,Yes,Yes,,,Yes,
+Charles Wallace,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/24694517-chicago-illinois-cat,Domestic Mediumhair,Brown Tabby,746167,,"Private Owner (Chicago, IL)","Chicago, IL",,,,Yes,,,,Yes,Yes,Yes,,,Yes,
+Felix,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/24718894-chicago-illinois-cat,Domestic Shorthair,"Gray, Blue or Silver Tabby",750589,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,,,,,Yes,Yes,,,,,Yes
+Leyla,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/24751612-chicago-illinois-cat,Domestic Shorthair,White (Mostly),756062,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,,,,,Yes,Yes,Yes,,,Yes,
+Ramona,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/24751658-chicago-illinois-cat,Domestic Longhair,White (Mostly),756066,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,,,,,Yes,Yes,Yes,,,Yes,
+Steph & Curry,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/24805308-chicago-illinois-cat,American Shorthair,Orange or Red Tabby,766515,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,Yes,,,,,Yes,Yes,,,,
+Leo,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/24863383-chicago-illinois-cat,Domestic Mediumhair,Black & White or Tuxedo,779200,,"Private Owner (Chicago, IL)","Chicago, IL",,,,,,,,,,,,,,
+Lola,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/24857943-chicago-illinois-cat,Ragdoll,Tiger Striped,777617,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,,,,,,,,,,,
+Owlet,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/25075059-chicago-illinois-cat,Domestic Mediumhair,Brown Tabby,825045,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,,,,,,,,,,,
+CatBoy,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/25075064-chicago-illinois-cat,Domestic Mediumhair,Tiger Striped,825048,,"Private Owner (Chicago, IL)","Chicago, IL",,,,,,,,,,,,,,
+Maui,Male,senior,"Chicago, IL",https://www.adoptapet.com/pet/24877745-chicago-illinois-cat,Bombay,All Black,782337,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,Yes,,,Yes,,Yes,,,,,Yes
+Stryder,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/24899510-chicago-illinois-cat,Calico,Calico or Dilute Calico,786784,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,Yes,,,Yes,,Yes,Yes,,Yes,,
+Tommy,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25004596-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,810115,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,,,,,,,,,,,
+Sacks,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/24703393-chicago-illinois-cat,American Shorthair,Black & White or Tuxedo,748030,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,Yes,,,,,Yes,,,Yes,,
+Kramer,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/25072945-chicago-illinois-cat,Domestic Shorthair,Orange or Red (Mostly),824520,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,,,,,,,,,,,
+Pebbles,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25080107-chicago-illinois-cat,Domestic Mediumhair,Gray or Blue,826090,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,,,,,,,,,,,
+Sox,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25131722-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,840138,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,,,,,,,,,,,
+Ernie,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25140177-chicago-illinois-cat,Domestic Mediumhair,Tan or Fawn (Mostly),842917,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,,,,,,,,,,,
+Louie,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25140179-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,842918,,"Private Owner (Chicago, IL)","Chicago, IL",,,,,,,,,,,,,,
+Frieda,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25173316-chicago-illinois-cat,Calico,Tortoiseshell,849502,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,,,,,,,,,,,
+Fiona,Female,senior,"Chicago, IL",https://www.adoptapet.com/pet/25242611-chicago-illinois-cat,Domestic Shorthair,Gray or Blue (Mostly),865076,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,,,,,Yes,Yes,,Yes,,Yes,
+Shady,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25250436-chicago-illinois-cat,American Shorthair,All Black,866939,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,,,,,,,,,,,
+Madison (Maddy),Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/24359094-chicago-illinois-cat,Domestic Shorthair,Tortoiseshell,680592,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,,,,,,Yes,,,,Yes,
+Boots,Male,kitten,"Chicago, IL",https://www.adoptapet.com/pet/25310768-chicago-illinois-kitten,Domestic Shorthair,Orange or Red,880044,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,,,,,,,,,,,
+Benjamin,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25320618-chicago-illinois-cat,Domestic Mediumhair,White (Mostly),882890,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,Yes,,,,,Yes,,,,Yes,Yes
+Pirate kitty,Female,senior,"Chicago, IL",https://www.adoptapet.com/pet/25358202-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,890861,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,,,,,,,,,,,
+Blaze,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/25400821-chicago-illinois-cat,American Shorthair,Orange or Red,900885,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,,,,,,,,,,,
+Tommy,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25428442-chicago-illinois-cat,American Shorthair,Black & White or Tuxedo,906168,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,,,,,,,,,,,
+Bailey,Male,kitten,"Chicago, IL",https://www.adoptapet.com/pet/25459526-chicago-illinois-kitten,Domestic Shorthair,Tiger Striped,912961,,"Private Owner (Chicago, IL)","Chicago, IL",,,,,,,,,,,,,,
+Michi,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/25466341-chicago-illinois-cat,Domestic Mediumhair,Tiger Striped,914603,,"Private Owner (Chicago, IL)","Chicago, IL",,,,,,,,Yes,Yes,,,Yes,,
+Jasmine,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/21146534-chicago-illinois-cat,Domestic Shorthair,Tan or Fawn Tabby,300634,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,Yes,,,,Yes,Yes,Yes,,Yes,,
+Willow,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/23540956-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,554251,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,Yes,Yes,,,,Yes,,Yes,Yes,,
+Addison,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/20570040-chicago-illinois-cat,Domestic Mediumhair,Tan or Fawn,248737,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,,Yes,,,,,Yes,,,,Yes
+Maude,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/20947263-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,287548,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,Yes,,,,Yes,Yes,Yes,,,,
+Deluxe and Delight,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/21947984-chicago-illinois-cat,American Shorthair,Black & White or Tuxedo,373546,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,Yes,,,,Yes,Yes,Yes,,,,
+Sandy Claws,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/22175093-chicago-illinois-cat,Domestic Mediumhair,"Gray, Blue or Silver Tabby",393744,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,,,,,Yes,Yes,Yes,,,,
+Elsa,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/20442575-chicago-illinois-cat,Domestic Mediumhair,Gray or Blue (Mostly),237933,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,Yes,,,,,,,,,,Yes
+Liam,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/21172085-chicago-illinois-cat,Domestic Shorthair,Tiger Striped,303714,short,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,Yes,,,,,Yes,,Yes,,Yes,
+Squints,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/21761492-chicago-illinois-cat,Calico,Orange or Red (Mostly),357111,,"Private Owner (Chicago, IL)","Chicago, IL",,,,Yes,,,,,Yes,,,,,
+Dewey,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/21761450-chicago-illinois-cat,Calico,Orange or Red Tabby,357110,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,Yes,,,,,Yes,,,,,
+Pwipwi,Male,senior,"Chicago, IL",https://www.adoptapet.com/pet/21433621-chicago-illinois-cat,Domestic Shorthair,"Gray, Blue or Silver Tabby",329105,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,Yes,Yes,,Yes,,Yes,,,,,Yes
+Clark n Kostner,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/21239179-chicago-illinois-cat,American Shorthair,Black (Mostly),311028,,"Private Owner (Chicago, IL)","Chicago, IL",,,,Yes,,,,,Yes,Yes,,,,
+Kostner n Clark,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/21239139-chicago-illinois-cat,American Shorthair,Black (Mostly),311026,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,Yes,,,,,Yes,Yes,,,,
+Alley,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/21269354-chicago-illinois-cat,Calico,Calico or Dilute Calico,313977,medium,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,Yes,Yes,,,Yes,Yes,Yes,,Yes,,Yes
+Maude,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/20947327-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,287597,short,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,Yes,,,,Yes,Yes,Yes,,,,
+Luna,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/21744824-chicago-illinois-cat,Domestic Mediumhair,Tan or Fawn (Mostly),355789,medium,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,,,,,Yes,Yes,Yes,,,,
+Pablo,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/23451471-chicago-illinois-cat,American Shorthair,Tiger Striped,542771,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,Yes,Yes,,,Yes,Yes,Yes,,Yes,,
+Toby,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/22276578-chicago-illinois-cat,Domestic Shorthair,"Gray, Blue or Silver Tabby",403184,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,Yes,,,,Yes,Yes,Yes,,,,
+Anders (Ders),Male,young,"Chicago, IL",https://www.adoptapet.com/pet/22280716-chicago-illinois-cat,Domestic Mediumhair,All Black,403714,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,,,,,,Yes,Yes,,,Yes,
+Rufus,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/22074060-chicago-illinois-cat,Domestic Mediumhair,Black & White or Tuxedo,384627,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,Yes,,,,Yes,Yes,,Yes,,,
+Eve,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/22146263-chicago-illinois-cat,American Shorthair,Brown Tabby,391249,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,Yes,,,,,Yes,Yes,,,,
+Little Sister,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/22721403-chicago-illinois-cat,American Shorthair,Black & White or Tuxedo,448546,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,Yes,,,,,Yes,Yes,,,,
+Zhanzhao,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/23548349-chicago-illinois-cat,American Shorthair,Brown or Chocolate (Mostly),555337,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,,,,,,Yes,,,,,
+Muffin,Female,senior,"Chicago, IL",https://www.adoptapet.com/pet/22485292-chicago-illinois-cat,Domestic Mediumhair,Brown or Chocolate (Mostly),425465,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,Yes,,,,Yes,Yes,,Yes,,,
+Milky,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/22938557-chicago-illinois-cat,Persian,"Gray, Blue or Silver Tabby",471794,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,Yes,,,Yes,,Yes,,,Yes,,Yes
+China,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/23045308-chicago-illinois-cat,Calico,Calico or Dilute Calico,483787,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,,,,Yes,,Yes,,Yes,,,
+Pierre,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/22954261-chicago-illinois-cat,Domestic Shorthair,All Black,473330,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,Yes,,,Yes,,Yes,,Yes,Yes,,Yes
+Preston,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/22982284-chicago-illinois-cat,Domestic Shorthair,Tiger Striped,477089,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,Yes,,,Yes,,Yes,Yes,,Yes,,
+Sasha,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/23230669-chicago-illinois-cat,American Shorthair,Orange or Red,507451,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,Yes,,,,Yes,Yes,,,Yes,,Yes
+Storm,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/23109646-chicago-illinois-cat,American Shorthair,Black (Mostly),491475,,"Private Owner (Chicago, IL)","Chicago, IL",,,,,,,,Yes,Yes,,Yes,Yes,,
+Callie,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/23378854-chicago-illinois-cat,Calico,Calico or Dilute Calico,532280,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,,,,,,Yes,,,,,
+Cosmo,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/23484444-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,546838,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,,,,,Yes,Yes,Yes,,,,
+Ari,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/23484094-chicago-illinois-cat,Domestic Shorthair,Tan or Fawn (Mostly),546837,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,,,,,Yes,Yes,Yes,,Yes,,
+Marty,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/23560880-chicago-illinois-cat,Domestic Shorthair,Orange or Red Tabby,556795,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,Yes,,,,,Yes,,Yes,,,
+Alfie,Male,senior,"Chicago, IL",https://www.adoptapet.com/pet/21935142-chicago-illinois-cat,Domestic Mediumhair,Black & White or Tuxedo,372012,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,,Yes,,Yes,,Yes,Yes,,,,Yes
+Kaluah,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/21298433-chicago-illinois-cat,Domestic Shorthair,White (Mostly),316857,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,Yes,,,,,Yes,Yes,,,Yes,
+Hamlet,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/23741573-chicago-illinois-cat,American Shorthair,Brown Tabby,582538,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,Yes,,,,Yes,Yes,Yes,,,,
+Tina,Female,senior,"Chicago, IL",https://www.adoptapet.com/pet/23840306-chicago-illinois-cat,Domestic Longhair,Brown or Chocolate (Mostly),588433,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,Yes,Yes,,,Yes,Yes,Yes,,Yes,,
+Clarke,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/23891353-chicago-illinois-cat,Domestic Mediumhair,Brown Tabby,603673,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,,,,,Yes,Yes,Yes,,Yes,,
+Barry,Male,senior,"Chicago, IL",https://www.adoptapet.com/pet/23982527-chicago-illinois-cat,Domestic Mediumhair,Orange or Red Tabby,618470,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,Yes,Yes,,,,Yes,,,,,
+Kitty,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/23961032-chicago-illinois-cat,American Wirehair,Gray or Blue (Mostly),615449,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,Yes,,,Yes,,Yes,,Yes,,Yes,Yes
+Maximus & Diesel,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/24038702-chicago-illinois-cat,Domestic Shorthair,Tan or Fawn (Mostly),627449,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,Yes,,,,Yes,Yes,Yes,,,Yes,
+Maximus & Diesel,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/24038722-chicago-illinois-cat,Domestic Mediumhair,Brown Tabby,627452,,"Private Owner (Chicago, IL)","Chicago, IL",,,,Yes,,,,Yes,Yes,Yes,,,Yes,
+Usagi-San,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/20993233-chicago-illinois-cat,Exotic,Black & White or Tuxedo,291004,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,,,,Yes,,Yes,,Yes,,Yes,
+Tama,Male,senior,"Chicago, IL",https://www.adoptapet.com/pet/24104006-chicago-illinois-cat,Exotic,Black & White or Tuxedo,637223,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,Yes,,,Yes,,Yes,,Yes,,Yes,Yes
+Lion,Female,"
+              2 years old, ","Chicago, IL",https://www.adoptapet.com/pet/24240680-chicago-illinois-cat,American Shorthair,Brown Tabby,662411,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,Yes,,,,,,Yes,,,,
+Tiger Lilly,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/24245677-chicago-illinois-cat,Domestic Shorthair,Brown or Chocolate,663393,,"Private Owner (Chicago, IL)","Chicago, IL",Yes,,,Yes,,,,Yes,Yes,Yes,,,,Yes
+Ricky,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/24429547-chicago-illinois-cat,Domestic Shorthair,Cream or Ivory,693405,,"Private Owner (Chicago, IL)","Chicago, IL",,Yes,,Yes,,,,Yes,Yes,Yes,,,Yes,
+Ajax,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25274523-chicago-illinois-cat,Domestic Shorthair,Brown or Chocolate,40577944,,The Anti-Cruelty Society - Everyday Adoption Center,"Chicago, IL",,Yes,,,,,,,,,,,,
+Lily,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/23942811-chicago-illinois-cat,Domestic Shorthair,Brown or Chocolate,40043550,,The Anti-Cruelty Society - Everyday Adoption Center,"Chicago, IL",Yes,,,,,,,,,,,,,
+Marley,Male,senior,"Chicago, IL",https://www.adoptapet.com/pet/25307384-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,9960606,,The Anti-Cruelty Society - Everyday Adoption Center,"Chicago, IL",,Yes,,,,,,,Yes,,,,,
+Myles,Male,senior,"Chicago, IL",https://www.adoptapet.com/pet/25307385-chicago-illinois-cat,Domestic Longhair/Domestic Shorthair,All Black,9960382,,The Anti-Cruelty Society - Everyday Adoption Center,"Chicago, IL",,Yes,,,,,,,Yes,,,,,
+Kit-Kat,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/25092297-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,14277093-19-0020,short,Whiskers & Tails Rescue Foundation,"PO Box 221014, Chicago, IL 60622",Yes,,,Yes,,,,,,Yes,,,,
+Cody,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/24747369-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,14145211-19-0001,short,Whiskers & Tails Rescue Foundation,"PO Box 221014, Chicago, IL 60622",,Yes,,Yes,,,,,Yes,Yes,,,Yes,
+Annie,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/24939053-chicago-illinois-cat,Siamese,White,14218333-19-0018,short,Whiskers & Tails Rescue Foundation,"PO Box 221014, Chicago, IL 60622",Yes,,,Yes,,,Yes,,,,,,,
+Ma-ma,Female,"
+              8 months old, ","Chicago, IL",https://www.adoptapet.com/pet/25506546-chicago-illinois-kitten,Domestic Shorthair,Black & White or Tuxedo,,short,Chicago Cat Rescue,"PO Box 146338, Chicago, IL 60614",Yes,,,Yes,,,,Yes,,Yes,,,,
+Indi,Male,"
+              3 months old, ","Chicago, IL",https://www.adoptapet.com/pet/25506831-chicago-illinois-kitten,Domestic Shorthair,Orange or Red (Mostly),,short,Chicago Cat Rescue,"PO Box 146338, Chicago, IL 60614",,Yes,,Yes,,,,Yes,,Yes,,,,
+Tai,Male,"
+              3 months old, ","Chicago, IL",https://www.adoptapet.com/pet/25506790-chicago-illinois-kitten,Domestic Shorthair,Orange or Red (Mostly),,short,Chicago Cat Rescue,"PO Box 146338, Chicago, IL 60614",,Yes,,Yes,,,,Yes,,Yes,,,,
+Nona,Female,"
+              8 months old, ","Chicago, IL",https://www.adoptapet.com/pet/25506455-chicago-illinois-kitten,Domestic Shorthair,Tortoiseshell,,short,Chicago Cat Rescue,"PO Box 146338, Chicago, IL 60614",Yes,,,Yes,,,,Yes,,Yes,,,,
+Purrsia,Female,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/25507031-chicago-illinois-cat,Domestic Shorthair,Calico or Dilute Calico,,short,Chicago Cat Rescue,"PO Box 146338, Chicago, IL 60614",Yes,,,Yes,,,,Yes,,Yes,,,,
+HannahBell,Male,"
+              3 months old, ","Chicago, IL",https://www.adoptapet.com/pet/25507004-chicago-illinois-kitten,Domestic Shorthair,Brown Tabby,,short,Chicago Cat Rescue,"PO Box 146338, Chicago, IL 60614",,Yes,,Yes,,,,Yes,,Yes,,,,
+Rooney,Male,"
+              3 months old, ","Chicago, IL",https://www.adoptapet.com/pet/25506974-chicago-illinois-kitten,Domestic Shorthair,Brown Tabby,,short,Chicago Cat Rescue,"PO Box 146338, Chicago, IL 60614",,Yes,,Yes,,,,Yes,,Yes,,,,
+Neo,Male,"
+              3 months old, ","Chicago, IL",https://www.adoptapet.com/pet/25506985-chicago-illinois-kitten,Domestic Shorthair,Spotted Tabby/Leopard Spotted,,short,Chicago Cat Rescue,"PO Box 146338, Chicago, IL 60614",,Yes,,Yes,,,,Yes,,Yes,,,,
+Rio,Male,"
+              3 months old, ","Chicago, IL",https://www.adoptapet.com/pet/25506954-chicago-illinois-kitten,Domestic Shorthair,Brown Tabby,,short,Chicago Cat Rescue,"PO Box 146338, Chicago, IL 60614",,Yes,,Yes,,,,Yes,,Yes,,,,
+Lin-Meownuel,Male,"
+              3 months old, ","Chicago, IL",https://www.adoptapet.com/pet/25506896-chicago-illinois-kitten,Domestic Shorthair,Brown Tabby,,short,Chicago Cat Rescue,"PO Box 146338, Chicago, IL 60614",,Yes,,Yes,,,,Yes,,Yes,,,,
+Mica,Male,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/25499798-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,,short,Chicago Cat Rescue,"PO Box 146338, Chicago, IL 60614",,Yes,,,,,,Yes,,Yes,,Yes,,
+Layla,Female,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/24980265-chicago-illinois-cat,Domestic Longhair,Brown Tabby,,long,Chicago Cat Rescue,"PO Box 146338, Chicago, IL 60614",Yes,,,Yes,,,,Yes,,Yes,,,,
+Dalia,Female,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/24980290-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,,short,Chicago Cat Rescue,"PO Box 146338, Chicago, IL 60614",Yes,,,Yes,,,,Yes,,Yes,,,,
+Gia,Female,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/24972014-chicago-illinois-cat,American Bobtail,All Black,,short,Chicago Cat Rescue,"PO Box 146338, Chicago, IL 60614",Yes,,,Yes,,,,Yes,,Yes,,,,
+Minka,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/24944601-chicago-illinois-cat,Domestic Longhair,"Gray, Blue or Silver Tabby",,long,Chicago Cat Rescue,"PO Box 146338, Chicago, IL 60614",,,,,,,,,,,,,,
+Parker,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/24944611-chicago-illinois-cat,Domestic Longhair,"Gray, Blue or Silver Tabby",,long,Chicago Cat Rescue,"PO Box 146338, Chicago, IL 60614",,,,,,,,,,,,,,
+Augustus,Male,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/24373153-chicago-illinois-kitten,Domestic Shorthair,Tan or Fawn,,short,Chicago Cat Rescue,"PO Box 146338, Chicago, IL 60614",,Yes,,Yes,,,,Yes,,Yes,,,,
+Truvy,Female,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/23021659-chicago-illinois-kitten,Domestic Shorthair,Gray or Blue,,short,Chicago Cat Rescue,"PO Box 146338, Chicago, IL 60614",Yes,,,Yes,,,,Yes,,Yes,,,,
+Tazzy,Female,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/23021672-chicago-illinois-kitten,Domestic Shorthair,Tiger Striped,,short,Chicago Cat Rescue,"PO Box 146338, Chicago, IL 60614",Yes,,,Yes,,,,Yes,,Yes,,,,
+Margeaux,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/21380884-chicago-illinois-cat,Domestic Mediumhair,Brown Tabby,,medium,Chicago Cat Rescue,"PO Box 146338, Chicago, IL 60614",Yes,,,Yes,,,,,,,Yes,,,
+Jack,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/6967464-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,,short,Chicago Cat Rescue,"PO Box 146338, Chicago, IL 60614",,Yes,,Yes,,,,,,Yes,,,,
+Rubik,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25477076-chicago-illinois-cat,Domestic Shorthair,"Gray, Blue or Silver Tabby",,short,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",,Yes,,Yes,,,,Yes,,Yes,,,,
+Piper,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25476824-chicago-illinois-cat,Domestic Shorthair,White (Mostly),,short,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",Yes,,,Yes,,,,Yes,,Yes,,,,
+Gene Kelly,Male,kitten,"Chicago, IL",https://www.adoptapet.com/pet/25476698-chicago-illinois-kitten,Domestic Shorthair,Orange or Red (Mostly),,short,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",,Yes,,Yes,,,,Yes,,Yes,,,,
+Thomas,Male,"
+              8 years old, ","Chicago, IL",https://www.adoptapet.com/pet/25483707-chicago-illinois-cat,Domestic Shorthair,Calico or Dilute Calico,,short,Friends of Chicago Animal Care & Control,"Chicago, IL 60680",,Yes,,Yes,Yes,,,Yes,,Yes,,,,
+Wordsworth,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25097705-chicago-illinois-cat,Domestic Shorthair,"Gray, Blue or Silver Tabby",,short,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",,Yes,,Yes,,,,Yes,,Yes,,,,
+Ko,Female,senior,"Chicago, IL",https://www.adoptapet.com/pet/25392189-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,,short,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",Yes,,,Yes,,,,Yes,,Yes,,,,
+Widget,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25386314-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",,Yes,,Yes,,,,Yes,,Yes,,,,
+Grey Cashmere,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25386178-chicago-illinois-cat,Russian Blue,Gray or Blue,,short,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",Yes,,,Yes,,Yes,,,,,,,,
+Poppet,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25386330-chicago-illinois-cat,Domestic Mediumhair,Black & White or Tuxedo,,medium,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",,Yes,,Yes,,,,Yes,,Yes,,,,
+Biggs,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/12716357-chicago-illinois-cat,Maine Coon,Brown Tabby,,long,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",,Yes,,Yes,,,Yes,,,Yes,,Yes,,
+Tortilla,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25374668-chicago-illinois-cat,Domestic Shorthair,Tortoiseshell,,short,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",Yes,,,Yes,,,,,,Yes,,,,
+Kuro and Aki,Male,kitten,"Chicago, IL",https://www.adoptapet.com/pet/25334904-chicago-illinois-kitten,Domestic Mediumhair,Black & White or Tuxedo,,medium,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",,Yes,,Yes,,,,,,Yes,,,,
+Aki and Kuro,Male,kitten,"Chicago, IL",https://www.adoptapet.com/pet/25334867-chicago-illinois-kitten,Domestic Longhair,Orange or Red (Mostly),,long,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",,Yes,,Yes,,,,,,Yes,,,,
+Thalia,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/25334374-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",Yes,,,Yes,,,,,,,,,,
+Edward (Eddy),Male,kitten,"Chicago, IL",https://www.adoptapet.com/pet/25299866-chicago-illinois-kitten,Domestic Shorthair,Black & White or Tuxedo,,short,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",,,,,,,,Yes,,Yes,,Yes,,
+Coco,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/22102592-chicago-illinois-cat,Domestic Shorthair,All Black,,short,Friends of Chicago Animal Care & Control,"Chicago, IL 60680",Yes,,,Yes,,,Yes,,,,Yes,,,
+Walrus,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/23577853-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,,short,Friends of Chicago Animal Care & Control,"Chicago, IL 60680",,Yes,,Yes,,,Yes,,,Yes,,,Yes,Yes
+Leela,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/20004678-chicago-illinois-cat,Domestic Shorthair,Gray or Blue (Mostly),,short,Friends of Chicago Animal Care & Control,"Chicago, IL 60680",Yes,,,Yes,,,,Yes,,Yes,,Yes,,
+Mousse,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/19980385-chicago-illinois-cat,Domestic Shorthair,All Black,,short,Friends of Chicago Animal Care & Control,"Chicago, IL 60680",,Yes,,Yes,Yes,,,Yes,,Yes,,,,
+Nico,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/18769878-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,19830060,short,Friends of Chicago Animal Care & Control,"Chicago, IL 60680",,Yes,,Yes,,,,,Yes,,,,,
+Fannie May,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/20837188-chicago-illinois-cat,Domestic Shorthair,Tiger Striped,,short,Friends of Chicago Animal Care & Control,"Chicago, IL 60680",Yes,,,Yes,,,,,,,,Yes,,
+Queen Elizabeth,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/20837182-chicago-illinois-cat,Domestic Shorthair,Tiger Striped,,short,Friends of Chicago Animal Care & Control,"Chicago, IL 60680",Yes,,,Yes,,,,,,,,Yes,,
+Iron Man,Male,kitten,"Chicago, IL",https://www.adoptapet.com/pet/25295976-chicago-illinois-kitten,Domestic Shorthair,Orange or Red Tabby,,short,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",,Yes,,Yes,,,,Yes,,Yes,,Yes,,
+Arthur (Artie),Male,kitten,"Chicago, IL",https://www.adoptapet.com/pet/25299838-chicago-illinois-kitten,Domestic Shorthair,"Gray, Blue or Silver Tabby",,short,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",,Yes,,Yes,,,,Yes,,Yes,,Yes,,
+Hulk and Captain America,Male,kitten,"Chicago, IL",https://www.adoptapet.com/pet/25295935-chicago-illinois-kitten,Domestic Shorthair,Black (Mostly),,short,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",,Yes,,Yes,,,,Yes,,Yes,,Yes,,
+Mindy,Female,kitten,"Chicago, IL",https://www.adoptapet.com/pet/25191814-chicago-illinois-kitten,Calico,Calico or Dilute Calico,,short,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",Yes,,,Yes,,,,Yes,,Yes,,,,
+Jamie,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25135838-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,,short,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",,Yes,,Yes,,,,Yes,,Yes,,,,
+Caspian,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/24955534-chicago-illinois-cat,Domestic Shorthair,Tan or Fawn (Mostly),,short,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",,Yes,,Yes,,,,,,Yes,,,,
+Lil B,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25026107-chicago-illinois-cat,Domestic Shorthair,"Gray, Blue or Silver Tabby",,short,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",,Yes,,Yes,,Yes,,,,Yes,,,,
+Flannery,Male,"
+              2 years old, ","Chicago, IL",https://www.adoptapet.com/pet/25013251-chicago-illinois-cat,Domestic Shorthair,Orange or Red Tabby,,short,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",,Yes,,Yes,,,,,,,,,,
+Punky,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25026128-chicago-illinois-cat,Domestic Shorthair,Gray or Blue (Mostly),,short,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",,Yes,,Yes,,Yes,,,,Yes,,,,
+Mr Mittens,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/24976943-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",,Yes,,Yes,,,,,,Yes,,,,
+Picasso,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/24976918-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",,Yes,,Yes,,,,Yes,,Yes,,,,
+Moonstruck,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/24936492-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",Yes,,,Yes,,,,,,Yes,,,,
+Libby,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/24936091-chicago-illinois-cat,Domestic Longhair,Black & White or Tuxedo,,long,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",Yes,,,Yes,,,,,,Yes,,,,
+Hailey,Female,"
+              10 years old, ","Chicago, IL",https://www.adoptapet.com/pet/24872959-chicago-illinois-cat,Domestic Longhair,Gray or Blue,,long,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",Yes,,,Yes,,,,,,,,,,
+Norberto,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/24834371-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",,Yes,,Yes,,,,,,,Yes,,,
+Calpurrnia,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/24686529-chicago-illinois-cat,Calico,Calico or Dilute Calico,,short,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",Yes,,,Yes,,,,,,Yes,,,,
+Snow Kiss,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/24571409-chicago-illinois-cat,Domestic Mediumhair,White (Mostly),,medium,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",Yes,,,Yes,,,,,,Yes,,,,
+Lucybell,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/19957801-chicago-illinois-cat,Domestic Shorthair,All Black,,short,Friends of Chicago Animal Care & Control,"Chicago, IL 60680",Yes,,,Yes,,,,Yes,,Yes,,,,
+Precious,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/20014302-chicago-illinois-cat,Calico,Calico or Dilute Calico,,short,Friends of Chicago Animal Care & Control,"Chicago, IL 60680",Yes,,,Yes,,,,Yes,,Yes,,Yes,,
+Aurora,Female,kitten,"Chicago, IL",https://www.adoptapet.com/pet/24343597-chicago-illinois-kitten,Domestic Shorthair,All Black,,short,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",Yes,,,Yes,,,,Yes,,Yes,,,,
+Ebony,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/24443828-chicago-illinois-cat,Domestic Shorthair,All Black,,short,Friends of Chicago Animal Care & Control,"Chicago, IL 60680",Yes,,,Yes,,,,Yes,,,,,,
+Titan,Male,"
+              7 months old, ","Chicago, IL",https://www.adoptapet.com/pet/24343634-chicago-illinois-kitten,Domestic Shorthair,All Black,,short,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",,Yes,,Yes,,,,Yes,,Yes,,,,
+Arya Stark,Female,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/24511522-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,,short,Friends of Chicago Animal Care & Control,"Chicago, IL 60680",,,,,,,,,,,,,,
+Baba Rum,Female,"
+              4 years old, ","Chicago, IL",https://www.adoptapet.com/pet/24022607-chicago-illinois-cat,Domestic Shorthair,Tortoiseshell,,medium,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",Yes,,,Yes,,,,Yes,,Yes,,Yes,,
+Bob Black,Male,senior,"Chicago, IL",https://www.adoptapet.com/pet/17521451-chicago-illinois-cat,Domestic Shorthair,Black (Mostly),,short,Feline Friends Chicago,"P.O. Box 802260, Chicago, IL 60680",,Yes,,,Yes,Yes,,,,Yes,,,,
+Azrial,Female,"
+              2 years old, ","Chicago, IL",https://www.adoptapet.com/pet/21965658-chicago-illinois-cat,Domestic Mediumhair,All Black,,medium,Famous Fido Rescue & Adoption Alliance,"3124 W. Irving Park Rd., Chicago, IL 60618",Yes,,,Yes,,,,,,Yes,,,,
+Prince,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/16859197-chicago-illinois-cat,Domestic Shorthair,Orange or Red,,short,Harmony House for Cats,"2914 N Elston, Chicago, IL 60618",,Yes,,Yes,Yes,,Yes,,,,Yes,,Yes,Yes
+Skelly,Male,"
+              10 years old, ","Chicago, IL",https://www.adoptapet.com/pet/22520486-chicago-illinois-cat,Domestic Shorthair,"Gray, Blue or Silver Tabby",,short,Harmony House for Cats,"2914 N Elston, Chicago, IL 60618",,Yes,,Yes,,,Yes,,,,,,,
+Gina,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/12471086-chicago-illinois-cat,Domestic Shorthair,All Black,,short,Harmony House for Cats,"2914 N Elston, Chicago, IL 60618",Yes,,,Yes,Yes,Yes,Yes,,,,Yes,,Yes,Yes
+Lilly,Female,"
+              5 years old, ","Chicago, IL",https://www.adoptapet.com/pet/21966018-chicago-illinois-cat,Domestic Mediumhair,"Gray, Blue or Silver Tabby",,medium,Famous Fido Rescue & Adoption Alliance,"3124 W. Irving Park Rd., Chicago, IL 60618",Yes,,,Yes,,,,,,Yes,,,,
+Beanie,Female,"
+              6 years old, ","Chicago, IL",https://www.adoptapet.com/pet/21965755-chicago-illinois-cat,Domestic Mediumhair,Orange or Red Tabby,,medium,Famous Fido Rescue & Adoption Alliance,"3124 W. Irving Park Rd., Chicago, IL 60618",Yes,,,Yes,,,,,,Yes,,,,
+Boston,Male,"
+              5 years old, ","Chicago, IL",https://www.adoptapet.com/pet/21965795-chicago-illinois-cat,Domestic Mediumhair,Orange or Red Tabby,,medium,Famous Fido Rescue & Adoption Alliance,"3124 W. Irving Park Rd., Chicago, IL 60618",,Yes,,Yes,,,,,,Yes,,,,
+Simon,Male,"
+              2 years old, ","Chicago, IL",https://www.adoptapet.com/pet/22665778-chicago-illinois-cat,Domestic Mediumhair,Orange or Red,,short,Famous Fido Rescue & Adoption Alliance,"3124 W. Irving Park Rd., Chicago, IL 60618",,Yes,,Yes,,,,Yes,,Yes,,,,
+Tiny,Female,"
+              2 years old, ","Chicago, IL",https://www.adoptapet.com/pet/22390308-chicago-illinois-cat,Domestic Mediumhair,Gray or Blue,,short,Famous Fido Rescue & Adoption Alliance,"3124 W. Irving Park Rd., Chicago, IL 60618",Yes,,,Yes,,,,Yes,,Yes,,,,
+Susie,Female,"
+              8 years old, ","Chicago, IL",https://www.adoptapet.com/pet/21966075-chicago-illinois-cat,Domestic Mediumhair,Gray or Blue,,medium,Famous Fido Rescue & Adoption Alliance,"3124 W. Irving Park Rd., Chicago, IL 60618",Yes,,,Yes,,,,,,Yes,,,,
+Starr,Female,"
+              3 years old, ","Chicago, IL",https://www.adoptapet.com/pet/21966056-chicago-illinois-cat,Domestic Mediumhair,Black & White or Tuxedo,,medium,Famous Fido Rescue & Adoption Alliance,"3124 W. Irving Park Rd., Chicago, IL 60618",Yes,,,Yes,,,,,,,,,,Yes
+Sir George,Male,"
+              8 years old, ","Chicago, IL",https://www.adoptapet.com/pet/21965852-chicago-illinois-cat,Domestic Mediumhair,Orange or Red Tabby,,medium,Famous Fido Rescue & Adoption Alliance,"3124 W. Irving Park Rd., Chicago, IL 60618",,Yes,,Yes,,,,,,Yes,,,,
+Mr Wolf,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/24185637-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,,short,Harmony House for Cats,"2914 N Elston, Chicago, IL 60618",,Yes,,Yes,,,Yes,,,,Yes,,,
+Chloe,Female,"
+              4 years old, ","Chicago, IL",https://www.adoptapet.com/pet/21965884-chicago-illinois-cat,Domestic Mediumhair,Orange or Red Tabby,,medium,Famous Fido Rescue & Adoption Alliance,"3124 W. Irving Park Rd., Chicago, IL 60618",Yes,,,Yes,,,,,,Yes,,,,
+Timmy,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/21909982-chicago-illinois-cat,Domestic Mediumhair,Black & White or Tuxedo,,medium,Famous Fido Rescue & Adoption Alliance,"3124 W. Irving Park Rd., Chicago, IL 60618",,Yes,,Yes,,,,Yes,,Yes,,Yes,,
+Boston,Male,"
+              6 years old, ","Chicago, IL",https://www.adoptapet.com/pet/21965794-chicago-illinois-cat,Domestic Mediumhair,Orange or Red Tabby,,medium,Famous Fido Rescue & Adoption Alliance,"3124 W. Irving Park Rd., Chicago, IL 60618",,Yes,,Yes,,,,,,Yes,,,,
+Socks,Male,"
+              9 months old, ","Chicago, IL",https://www.adoptapet.com/pet/25447198-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,Famous Fido Rescue & Adoption Alliance,"3124 W. Irving Park Rd., Chicago, IL 60618",,Yes,,Yes,,,,Yes,,Yes,,Yes,,
+Sapphire,Female,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/25447247-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,Famous Fido Rescue & Adoption Alliance,"3124 W. Irving Park Rd., Chicago, IL 60618",Yes,,,Yes,,,,Yes,,Yes,,,,
+Maisie,Female,"
+              9 months old, ","Chicago, IL",https://www.adoptapet.com/pet/25447072-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,Famous Fido Rescue & Adoption Alliance,"3124 W. Irving Park Rd., Chicago, IL 60618",Yes,,,Yes,,,,Yes,,Yes,,Yes,,
+Tommy,Male,"
+              10 months old, ","Chicago, IL",https://www.adoptapet.com/pet/25447184-chicago-illinois-cat,Domestic Shorthair,Gray or Blue (Mostly),,short,Famous Fido Rescue & Adoption Alliance,"3124 W. Irving Park Rd., Chicago, IL 60618",,Yes,,Yes,,,,Yes,,Yes,,Yes,,
+Lea,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25286501-chicago-illinois-cat,Domestic Shorthair,"Gray, Blue or Silver Tabby",,short,Famous Fido Rescue & Adoption Alliance,"3124 W. Irving Park Rd., Chicago, IL 60618",Yes,,,,,,,,,,,,,
+Marilyn,Female,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/24995187-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,0129191006,short,Famous Fido Rescue & Adoption Alliance,"3124 W. Irving Park Rd., Chicago, IL 60618",Yes,,,Yes,,,,Yes,,Yes,,Yes,,
+Honey,Female,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/24994291-chicago-illinois-cat,Domestic Shorthair,Tan or Fawn Tabby,43946890,short,Famous Fido Rescue & Adoption Alliance,"3124 W. Irving Park Rd., Chicago, IL 60618",Yes,,,Yes,,,,Yes,,Yes,,Yes,,
+Wallago,Male,"
+              4 years old, ","Chicago, IL",https://www.adoptapet.com/pet/24994848-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,44430705,short,Famous Fido Rescue & Adoption Alliance,"3124 W. Irving Park Rd., Chicago, IL 60618",,Yes,,Yes,,,,Yes,,Yes,,Yes,,
+Phil,Male,"
+              9 months old, ","Chicago, IL",https://www.adoptapet.com/pet/24994838-chicago-illinois-kitten,Domestic Shorthair,Orange or Red Tabby,44425643,short,Famous Fido Rescue & Adoption Alliance,"3124 W. Irving Park Rd., Chicago, IL 60618",,Yes,,Yes,,,,Yes,,Yes,,Yes,,
+Tiny,Female,"
+              2 years old, ","Chicago, IL",https://www.adoptapet.com/pet/22390307-chicago-illinois-cat,Domestic Mediumhair,Gray or Blue,,short,Famous Fido Rescue & Adoption Alliance,"3124 W. Irving Park Rd., Chicago, IL 60618",Yes,,,Yes,,,,Yes,,Yes,,,,
+Topaz,Male,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/25447235-chicago-illinois-cat,Domestic Mediumhair,Black & White or Tuxedo,,short,Famous Fido Rescue & Adoption Alliance,"3124 W. Irving Park Rd., Chicago, IL 60618",,Yes,,Yes,,,,Yes,,Yes,,,,
+Bootsy Collins,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/25180743-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,,short,Harmony House for Cats,"2914 N Elston, Chicago, IL 60618",,Yes,,Yes,,,Yes,,,Yes,,,,
+Henry VIII,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25180759-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,,short,Harmony House for Cats,"2914 N Elston, Chicago, IL 60618",,,,,,,,,,Yes,,,,
+Tip & Tweety,Male,"
+              10 months old, ","Chicago, IL",https://www.adoptapet.com/pet/23885855-chicago-illinois-kitten,Domestic Shorthair,All Black,,short,Friends of Petraits,"Chicago, IL 60640",,Yes,,Yes,,,,,,Yes,,,,
+Gertie,Female,"
+              7 years old, ","Chicago, IL",https://www.adoptapet.com/pet/23877432-chicago-illinois-cat,Calico,Calico or Dilute Calico,,short,Friends of Petraits,"Chicago, IL 60640",Yes,,,Yes,,,,,,,Yes,,Yes,
+Sammie,Female,"
+              4 years old, ","Chicago, IL",https://www.adoptapet.com/pet/23850733-chicago-illinois-cat,Abyssinian,Tortoiseshell,,short,Friends of Petraits,"Chicago, IL 60640",Yes,,,Yes,,,Yes,,,,Yes,,Yes,
+Mr,Male,"
+              5 years old, ","Chicago, IL",https://www.adoptapet.com/pet/23810120-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,,short,Friends of Petraits,"Chicago, IL 60640",,Yes,,Yes,,,Yes,,,,Yes,,Yes,
+Finn & Gwen,Male,"
+              9 years old, ","Chicago, IL",https://www.adoptapet.com/pet/25524154-chicago-illinois-cat,Domestic Shorthair,Tortoiseshell,,short,Friends of Petraits,"Chicago, IL 60640",,Yes,,Yes,,,,Yes,,,,Yes,,
+Ernie & Louie,Female,"
+              4 years old, ","Chicago, IL",https://www.adoptapet.com/pet/25498570-chicago-illinois-cat,Maine Coon,Brown Tabby,,medium,Friends of Petraits,"Chicago, IL 60640",Yes,,,Yes,,,,Yes,,Yes,,,,
+Seamus,Male,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/25456089-chicago-illinois-cat,Domestic Shorthair,Tan or Fawn Tabby,,short,Friends of Petraits,"Chicago, IL 60640",,Yes,,Yes,,,Yes,,,Yes,,,Yes,
+Anoush,Female,"
+              14 years old, ","Chicago, IL",https://www.adoptapet.com/pet/25250325-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,,short,Friends of Petraits,"Chicago, IL 60640",Yes,,,Yes,,,,Yes,,,Yes,,Yes,
+Stanley,Male,"
+              8 years old, ","Chicago, IL",https://www.adoptapet.com/pet/25254213-chicago-illinois-cat,Domestic Shorthair,Tan or Fawn Tabby,,short,Friends of Petraits,"Chicago, IL 60640",,Yes,,Yes,,,,,,Yes,,,,
+Padme,Female,"
+              4 years old, ","Chicago, IL",https://www.adoptapet.com/pet/25240335-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,Friends of Petraits,"Chicago, IL 60640",Yes,,,Yes,,,,,,Yes,,,,
+Tuula,Female,"
+              11 months old, ","Chicago, IL",https://www.adoptapet.com/pet/24870944-chicago-illinois-cat,Domestic Shorthair,Tortoiseshell,,short,Friends of Petraits,"Chicago, IL 60640",Yes,,,Yes,,,,Yes,,Yes,,Yes,,
+Helios,Male,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/23941052-chicago-illinois-cat,Domestic Shorthair,All Black,,short,Friends of Petraits,"Chicago, IL 60640",,Yes,,Yes,,,,,,Yes,,,,
+Bert,Male,"
+              2 years old, ","Chicago, IL",https://www.adoptapet.com/pet/24854878-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,Friends of Petraits,"Chicago, IL 60640",,Yes,,Yes,Yes,,Yes,,,,,,Yes,
+Star,Male,"
+              2 years old, ","Chicago, IL",https://www.adoptapet.com/pet/24873132-chicago-illinois-cat,Domestic Shorthair,Black (Mostly),,short,Friends of Petraits,"Chicago, IL 60640",,Yes,,Yes,,,,Yes,,Yes,,Yes,,
+Raja & Allie,Female,"
+              2 years old, ","Chicago, IL",https://www.adoptapet.com/pet/25137609-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,,short,Friends of Petraits,"Chicago, IL 60640",Yes,,,Yes,,,,Yes,,Yes,,,,
+Campbell & Hyde,Male,"
+              2 years old, ","Chicago, IL",https://www.adoptapet.com/pet/25016789-chicago-illinois-cat,Domestic Shorthair,Orange or Red Tabby,,short,Friends of Petraits,"Chicago, IL 60640",,Yes,,Yes,,,,,,,,,,
+Troy,Male,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/23941062-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,Friends of Petraits,"Chicago, IL 60640",,Yes,,Yes,,,,,,Yes,,,,
+Tortellini,Female,"
+              11 months old, ","Chicago, IL",https://www.adoptapet.com/pet/23889071-chicago-illinois-kitten,Domestic Shorthair,Tortoiseshell,,short,Friends of Petraits,"Chicago, IL 60640",Yes,,,Yes,,,,,,Yes,,,,
+Marilyn,Female,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/23901933-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,Friends of Petraits,"Chicago, IL 60640",Yes,,,Yes,,,,Yes,,,Yes,,Yes,
+Brownie,Female,"
+              2 years old, ","Chicago, IL",https://www.adoptapet.com/pet/25461889-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,,short,"Precious Pets, Almost Home Association","P. O. Box  411855, Chicago, IL 60641",Yes,,,Yes,,,,Yes,,Yes,,,Yes,
+Princess Kellogg,Female,"
+              4 years old, ","Chicago, IL",https://www.adoptapet.com/pet/23205369-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,"Precious Pets, Almost Home Association","P. O. Box  411855, Chicago, IL 60641",Yes,,,Yes,,,Yes,,,,Yes,,Yes,
+Midnight Blue,Female,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/23443048-chicago-illinois-cat,Domestic Shorthair,Black (Mostly),,short,"Precious Pets, Almost Home Association","P. O. Box  411855, Chicago, IL 60641",Yes,,,Yes,,,,,,,Yes,,,
+Tula,Female,"
+              2 years old, ","Chicago, IL",https://www.adoptapet.com/pet/21512599-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,,short,"Precious Pets, Almost Home Association","P. O. Box  411855, Chicago, IL 60641",Yes,,,Yes,,,Yes,,,Yes,,,Yes,
+Una,Female,"
+              2 years old, ","Chicago, IL",https://www.adoptapet.com/pet/21512598-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,,short,"Precious Pets, Almost Home Association","P. O. Box  411855, Chicago, IL 60641",Yes,,,Yes,,,Yes,,,Yes,,,Yes,
+Casper,Male,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/22342161-chicago-illinois-kitten,Domestic Shorthair,Brown Tabby,,short,"Precious Pets, Almost Home Association","P. O. Box  411855, Chicago, IL 60641",,Yes,,Yes,,,Yes,,,Yes,,,Yes,
+Valentina,Female,"
+              3 years old, ","Chicago, IL",https://www.adoptapet.com/pet/18177288-chicago-illinois-cat,Domestic Shorthair,Tortoiseshell,,short,"Precious Pets, Almost Home Association","P. O. Box  411855, Chicago, IL 60641",Yes,,,Yes,,,Yes,,,,Yes,,Yes,
+Ty,Male,"
+              9 years old, ","Chicago, IL",https://www.adoptapet.com/pet/25234570-chicago-illinois-cat,Domestic Shorthair,All Black,,short,"Precious Pets, Almost Home Association","P. O. Box  411855, Chicago, IL 60641",,Yes,,Yes,,,Yes,,,Yes,,Yes,,
+Bella Gray,Female,"
+              4 years old, ","Chicago, IL",https://www.adoptapet.com/pet/25403065-chicago-illinois-cat,Domestic Shorthair,"Gray, Blue or Silver Tabby",,short,"Precious Pets, Almost Home Association","P. O. Box  411855, Chicago, IL 60641",Yes,,,Yes,,,Yes,,,,Yes,,Yes,
+Sweet Pea,Female,"
+              6 years old, ","Chicago, IL",https://www.adoptapet.com/pet/25464416-chicago-illinois-cat,Domestic Longhair,Gray or Blue,,long,"Precious Pets, Almost Home Association","P. O. Box  411855, Chicago, IL 60641",Yes,,,Yes,,,Yes,,,Yes,,,Yes,
+Sam Winchester,Male,"
+              4 months old, ","Chicago, IL",https://www.adoptapet.com/pet/25464363-chicago-illinois-kitten,Domestic Shorthair,Black & White or Tuxedo,,short,"Precious Pets, Almost Home Association","P. O. Box  411855, Chicago, IL 60641",,Yes,,Yes,,,Yes,,,Yes,,Yes,,
+Dean Winchester,Male,"
+              4 months old, ","Chicago, IL",https://www.adoptapet.com/pet/25464359-chicago-illinois-kitten,Domestic Shorthair,White,,short,"Precious Pets, Almost Home Association","P. O. Box  411855, Chicago, IL 60641",,Yes,,Yes,,,Yes,,,Yes,,Yes,,
+Jody,Female,"
+              4 months old, ","Chicago, IL",https://www.adoptapet.com/pet/25464350-chicago-illinois-kitten,Domestic Shorthair,White,,short,"Precious Pets, Almost Home Association","P. O. Box  411855, Chicago, IL 60641",Yes,,,Yes,,,Yes,,,Yes,,Yes,,
+Quan,Male,"
+              6 years old, ","Chicago, IL",https://www.adoptapet.com/pet/25460654-chicago-illinois-cat,Domestic Shorthair,All Black,,short,"Precious Pets, Almost Home Association","P. O. Box  411855, Chicago, IL 60641",,Yes,,Yes,,,Yes,,,Yes,,,Yes,
+Charlene,Female,"
+              4 months old, ","Chicago, IL",https://www.adoptapet.com/pet/25498240-chicago-illinois-kitten,Domestic Shorthair,Black & White or Tuxedo,,short,"Precious Pets, Almost Home Association","P. O. Box  411855, Chicago, IL 60641",Yes,,,Yes,,,Yes,,,Yes,,Yes,,
+Tabitha,Female,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/25495263-chicago-illinois-cat,Domestic Longhair,Brown Tabby,,long,"Precious Pets, Almost Home Association","P. O. Box  411855, Chicago, IL 60641",Yes,,,Yes,,,Yes,,,,Yes,,Yes,
+Castiel,Male,"
+              4 months old, ","Chicago, IL",https://www.adoptapet.com/pet/25496039-chicago-illinois-kitten,Domestic Shorthair,Orange or Red Tabby,,short,"Precious Pets, Almost Home Association","P. O. Box  411855, Chicago, IL 60641",,Yes,,Yes,,,Yes,,,Yes,,Yes,,
+Iris,Female,"
+              6 years old, ","Chicago, IL",https://www.adoptapet.com/pet/25445766-chicago-illinois-cat,Domestic Shorthair,Cream or Ivory (Mostly),,short,"Precious Pets, Almost Home Association","P. O. Box  411855, Chicago, IL 60641",Yes,,,Yes,,,Yes,,,Yes,,,Yes,
+Tony,Male,"
+              3 years old, ","Chicago, IL",https://www.adoptapet.com/pet/25515783-chicago-illinois-cat,Domestic Shorthair,All Black,,short,"Precious Pets, Almost Home Association","P. O. Box  411855, Chicago, IL 60641",,Yes,,Yes,,,Yes,,,,Yes,,Yes,Yes
+David,Male,"
+              3 years old, ","Chicago, IL",https://www.adoptapet.com/pet/24962217-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,"Precious Pets, Almost Home Association","P. O. Box  411855, Chicago, IL 60641",,Yes,,Yes,,,Yes,,,,Yes,,Yes,Yes
+Daisy,Female,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/25109632-chicago-illinois-cat,Domestic Shorthair,Gray or Blue (Mostly),,short,"Precious Pets, Almost Home Association","P. O. Box  411855, Chicago, IL 60641",Yes,,,Yes,,,Yes,,,Yes,,,Yes,
+Davina,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/17404588-chicago-illinois-cat,Domestic Longhair,All Black,,long,CARF: The Critical Animal Relief Foundation,"Chicago, IL 60642",Yes,,,Yes,,,,,,,,,Yes,
+Roscoe,Male,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/19870477-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,,short,CARF: The Critical Animal Relief Foundation,"Chicago, IL 60642",,Yes,,Yes,Yes,,,,,Yes,,,,Yes
+Edward Hopper,Male,kitten,"Chicago, IL",https://www.adoptapet.com/pet/25487866-chicago-illinois-kitten,Domestic Shorthair,Orange or Red Tabby,,short,CARF: The Critical Animal Relief Foundation,"Chicago, IL 60642",,Yes,,Yes,,,,,,Yes,,,,
+Omega,Male,kitten,"Chicago, IL",https://www.adoptapet.com/pet/25232280-chicago-illinois-kitten,Domestic Shorthair,All Black,,short,CARF: The Critical Animal Relief Foundation,"Chicago, IL 60642",,,,,,,,,,,,,,
+Cholula,Female,kitten,"Chicago, IL",https://www.adoptapet.com/pet/25488027-chicago-illinois-kitten,Domestic Shorthair,Brown or Chocolate (Mostly),,short,CARF: The Critical Animal Relief Foundation,"Chicago, IL 60642",Yes,,,Yes,,,,,,Yes,,Yes,,
+Alaska,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/16368937-chicago-illinois-cat,Domestic Mediumhair,All Black,,medium,CARF: The Critical Animal Relief Foundation,"Chicago, IL 60642",Yes,,,Yes,,Yes,,,,,Yes,,,
+Cinder,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/25232277-chicago-illinois-cat,Domestic Mediumhair,Gray or Blue,,medium,CARF: The Critical Animal Relief Foundation,"Chicago, IL 60642",,Yes,,Yes,,,Yes,,,Yes,,,,
+Ebony,Female,senior,"Chicago, IL",https://www.adoptapet.com/pet/24890994-chicago-illinois-cat,Domestic Shorthair,All Black,,short,CARF: The Critical Animal Relief Foundation,"Chicago, IL 60642",Yes,,,Yes,Yes,Yes,,,,Yes,,Yes,,
+Mama Cat,Female,senior,"Chicago, IL",https://www.adoptapet.com/pet/19871125-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,,short,CARF: The Critical Animal Relief Foundation,"Chicago, IL 60642",Yes,,,Yes,,,,,,,,,,
+Teensy,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/18872126-chicago-illinois-cat,Domestic Shorthair,Tortoiseshell,,short,CARF: The Critical Animal Relief Foundation,"Chicago, IL 60642",Yes,,,Yes,Yes,,,,,Yes,,,,Yes
+Rosemary,Female,kitten,"Chicago, IL",https://www.adoptapet.com/pet/23381974-chicago-illinois-kitten,Domestic Shorthair,Brown or Chocolate,13615254,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",Yes,,,Yes,,,,,Yes,,,,,
+Cisco and Marcus,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/20709830-chicago-illinois-cat,Domestic Shorthair,Orange or Red (Mostly),12540586,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",,Yes,,Yes,,,,,Yes,,,,,
+Angelo,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/22214287-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,13173985,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",,Yes,,Yes,,,,,Yes,,,,,
+Milo,,adult,"Chicago, IL",https://www.adoptapet.com/pet/20711076-chicago-illinois-cat,Domestic Longhair,Orange or Red (Mostly),12541067,long,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",,,Yes,Yes,,,,,Yes,,,,,
+"Layla,",Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/21802679-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,13008219,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",Yes,,,Yes,,,,,Yes,,,,,
+Daphne,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/23987117-chicago-illinois-cat,Domestic Longhair,Brown Tabby,13858307,long,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",Yes,,,Yes,,,,,Yes,,,,,
+Aurora,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/24026681-chicago-illinois-cat,Domestic Shorthair,All Black,13874275,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",Yes,,,Yes,,,,,Yes,,,,,
+Snow,Female,senior,"Chicago, IL",https://www.adoptapet.com/pet/24027377-chicago-illinois-cat,Domestic Shorthair,Cream or Ivory (Mostly),13874384,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",Yes,,,Yes,,,,,Yes,,,,,
+Snow,Female,senior,"Chicago, IL",https://www.adoptapet.com/pet/24027378-chicago-illinois-cat,Domestic Shorthair,Cream or Ivory (Mostly),13874383,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",Yes,,,Yes,,,,,Yes,,,,,
+Ashley,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/18255377-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,11467034,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",Yes,,,Yes,,,,,Yes,,,,,
+Sugar,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/22991064-chicago-illinois-cat,Domestic Shorthair,Gray or Blue (Mostly),13450619,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",Yes,,,Yes,,,,,Yes,,,,,
+Thyme,Female,kitten,"Chicago, IL",https://www.adoptapet.com/pet/23381975-chicago-illinois-kitten,Domestic Shorthair,Brown or Chocolate (Mostly),13615155,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",Yes,,,Yes,,,,,Yes,,,,,
+Argyle,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/6153975-chicago-illinois-cat,Domestic Shorthair,Tan or Fawn Tabby,3799558,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",,Yes,,Yes,,,,,Yes,Yes,,,,
+Charlie,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/22214288-chicago-illinois-cat,Domestic Longhair,Black & White or Tuxedo,13173917,long,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",,Yes,,Yes,,,,,Yes,,,,,
+Heather,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/22133874-chicago-illinois-cat,Domestic Shorthair,,13138755,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",Yes,,,Yes,,,,Yes,Yes,Yes,,,,
+Bruce,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/21386577-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,12846069,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",,Yes,,Yes,,,,,Yes,,,,,
+skittles,Female,senior,"Chicago, IL",https://www.adoptapet.com/pet/21386579-chicago-illinois-cat,Domestic Shorthair,Tortoiseshell,12846020,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",Yes,,,Yes,,,,Yes,Yes,Yes,,,,
+Twix,Male,senior,"Chicago, IL",https://www.adoptapet.com/pet/21386578-chicago-illinois-cat,Domestic Shorthair,Orange or Red (Mostly),12846060,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",,Yes,,Yes,,,,,Yes,,,,,
+Poppy,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/2702218-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,1654874,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",,Yes,,Yes,,,,,Yes,Yes,,,,
+Penguin,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/2546844-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,843769,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",,,,,Yes,,,,Yes,,,,,
+Chrissy,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/9885066-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,6288817,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",Yes,,,Yes,,,,,Yes,,,,,
+Stripe,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/6156208-chicago-illinois-cat,Domestic Shorthair,Calico or Dilute Calico,3801038,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",Yes,,,Yes,,,,,Yes,Yes,,,,
+Paddy McGee,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/5322834-chicago-illinois-cat,American Shorthair,All Black,3379924,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",,Yes,,Yes,,,,,Yes,Yes,,,,
+Spruce,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/18585325-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,11673625,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",,Yes,,Yes,,,,,Yes,,,,,
+Newbie,,adult,"Chicago, IL",https://www.adoptapet.com/pet/18624239-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,11680267,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",,,Yes,Yes,,,,,Yes,,,,,
+Tink,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/20435415-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,12436323,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",Yes,,,Yes,,,,,Yes,Yes,,,,
+Tink,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/24028718-chicago-illinois-cat,Domestic Shorthair,,13874705,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",Yes,,,Yes,,,,,Yes,,,,,
+Crackle,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/24027381-chicago-illinois-cat,Domestic Shorthair,Orange or Red (Mostly),13874284,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",,Yes,,Yes,,,,,Yes,,,,,
+Snap,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/22214289-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,13173893,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",Yes,,,Yes,,,,,Yes,,,,,
+Peanut,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/13977195-chicago-illinois-cat,Domestic Shorthair,White (Mostly),9212001,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",Yes,,,Yes,,,,,Yes,,,,,
+Tinkerbelle,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/20709224-chicago-illinois-cat,American Shorthair,Black & White or Tuxedo,12540437,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",Yes,,,Yes,,,,,Yes,Yes,,,,
+KITTENS!!!!,,adult,"Chicago, IL",https://www.adoptapet.com/pet/23082313-chicago-illinois-cat,Domestic Shorthair,,13492316,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",,,Yes,Yes,,,,,Yes,,,,,
+Ebi,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/23437884-chicago-illinois-cat,Calico,Calico or Dilute Calico,13638445,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",Yes,,,Yes,,,,,Yes,,,,,
+Paisley,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/6153974-chicago-illinois-cat,Domestic Mediumhair,Tan or Fawn (Mostly),3799412,medium,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",Yes,,,Yes,,,,,Yes,Yes,,,,
+Wicker,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/20709833-chicago-illinois-cat,Domestic Shorthair,Black (Mostly),12540802,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",,Yes,,Yes,Yes,,,,Yes,,,,,
+Gretel,,young,"Chicago, IL",https://www.adoptapet.com/pet/18117004-chicago-illinois-cat,Domestic Shorthair,Gray or Blue (Mostly),11383671,short,Touched By An Animal/Cats-Are-Purrsons-Too,"PO BOX 59067, Chicago, IL 60659",,,Yes,Yes,,,,Yes,Yes,Yes,,,,
+Alley Kahn,Male,"
+              2 years old, ","Chicago, IL",https://www.adoptapet.com/pet/23850637-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",,Yes,,Yes,,,,,,,,,,
+Benito,Male,"
+              7 years old, ","Chicago, IL",https://www.adoptapet.com/pet/24515507-chicago-illinois-cat,Domestic Longhair,Gray or Blue (Mostly),,long,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",,Yes,,Yes,,,,,,,,,,
+Parker,Male,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/25113722-chicago-illinois-cat,Domestic Shorthair,Tiger Striped,,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",,Yes,,Yes,,,,,,,,,,
+Raymond,Male,"
+              3 years old, ","Chicago, IL",https://www.adoptapet.com/pet/24745170-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",,Yes,,Yes,,,,,,,,,,Yes
+Oscar Montevecchio,Male,kitten,"Chicago, IL",https://www.adoptapet.com/pet/18889094-chicago-illinois-kitten,Domestic Shorthair,Black & White or Tuxedo,,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",,Yes,,Yes,,,Yes,,,Yes,,Yes,,
+Alistair,Male,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/24775667-chicago-illinois-cat,Domestic Shorthair,Tan or Fawn (Mostly),,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",,Yes,,Yes,,,,,,,,,,
+Chi Town,Female,"
+              7 years old, ","Chicago, IL",https://www.adoptapet.com/pet/24259448-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",Yes,,,Yes,,,,,,,,Yes,,
+Oscar Evans,Male,"
+              9 years old, ","Chicago, IL",https://www.adoptapet.com/pet/25399024-chicago-illinois-cat,Domestic Mediumhair,Orange or Red (Mostly),,medium,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",,Yes,,,,,,,,,,,,
+Emmie,Female,"
+              3 years old, ","Chicago, IL",https://www.adoptapet.com/pet/24660839-chicago-illinois-cat,Domestic Shorthair,"Gray, Blue or Silver Tabby",,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",Yes,,,Yes,,,,,,,,,,
+Rowan,Female,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/23312128-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",Yes,,,Yes,,,,,,,,,,Yes
+Estella,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/18717981-chicago-illinois-cat,Domestic Shorthair,Tortoiseshell,,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",Yes,,,Yes,,,,,,,,,,
+Pepperoni,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/21695999-chicago-illinois-cat,Domestic Shorthair,"Gray, Blue or Silver Tabby",,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",,Yes,,Yes,,,,,,,,,,
+Little Bits,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/21695961-chicago-illinois-cat,Domestic Shorthair,"Gray, Blue or Silver Tabby",,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",Yes,,,Yes,,,,,,,,,,
+Hinahina,Female,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/23307782-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",Yes,,,Yes,,,,,,,,,,
+Mama Ava,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/23785984-chicago-illinois-cat,Domestic Shorthair,Cream or Ivory (Mostly),,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",Yes,,,Yes,,,,,,Yes,,,,Yes
+Cio Cio San,Female,"
+              2 years old, ","Chicago, IL",https://www.adoptapet.com/pet/23104230-chicago-illinois-cat,Domestic Shorthair,Tan or Fawn Tabby,,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",Yes,,,Yes,,,,,,,,,,
+Michigan,Male,"
+              2 years old, ","Chicago, IL",https://www.adoptapet.com/pet/25173103-chicago-illinois-cat,Domestic Shorthair,All Black,,medium,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",,Yes,,,,,,,,,,,,
+Gabriel,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/24151542-chicago-illinois-cat,Domestic Longhair,Brown Tabby,,long,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",,Yes,,,,,,,,,,,,Yes
+Delilah,Female,"
+              11 months old, ","Chicago, IL",https://www.adoptapet.com/pet/24167261-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",Yes,,,Yes,,,,,,,,,,
+Coco,Male,"
+              3 years old, ","Chicago, IL",https://www.adoptapet.com/pet/24277938-chicago-illinois-cat,Domestic Shorthair,Tiger Striped,,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",,Yes,,Yes,,,,,,,,,,
+Howie,Male,"
+              3 years old, ","Chicago, IL",https://www.adoptapet.com/pet/25441882-chicago-illinois-cat,Domestic Shorthair,Orange or Red (Mostly),,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",,Yes,,Yes,,,,,,,,,,
+Mrs Cuddles,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25337096-chicago-illinois-cat,Domestic Shorthair,Tiger Striped,,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",Yes,,,Yes,,,,,,,,,,
+Vera,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/25346844-chicago-illinois-cat,Domestic Shorthair,Gray or Blue (Mostly),,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",Yes,,,Yes,,,,,,Yes,,,,
+Chom Chom,Female,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/25377331-chicago-illinois-cat,Domestic Shorthair,Tan or Fawn Tabby,,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",,,,,,,,,,,,,,
+Oreo Finley,Male,"
+              2 years old, ","Chicago, IL",https://www.adoptapet.com/pet/25446873-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",,Yes,,Yes,,,,,,,,,,
+Achilles,Male,"
+              9 years old, ","Chicago, IL",https://www.adoptapet.com/pet/19886225-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",,Yes,,Yes,,,,,,Yes,,Yes,,
+Michelline,Female,"
+              2 years old, ","Chicago, IL",https://www.adoptapet.com/pet/25490265-chicago-illinois-cat,Domestic Mediumhair,Tiger Striped,,medium,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",Yes,,,Yes,,,,,,,,,,
+Corrigan,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/25513796-chicago-illinois-cat,Domestic Shorthair,Orange or Red,,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",,Yes,,Yes,,,,,,Yes,,,,
+Chester the Second,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25281664-chicago-illinois-cat,Domestic Shorthair,Orange or Red Tabby,,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",,Yes,,Yes,,,,,,,,,,
+Buddy,Male,"
+              6 years old, ","Chicago, IL",https://www.adoptapet.com/pet/25335474-chicago-illinois-cat,Domestic Shorthair,Orange or Red,,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",,Yes,,Yes,,,,,,,,,,
+Elaine,Female,"
+              3 years old, ","Chicago, IL",https://www.adoptapet.com/pet/24805935-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",Yes,,,Yes,,,,,,,,,,
+Annie Bananie,Female,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/25291739-chicago-illinois-cat,Domestic Shorthair,Tiger Striped,,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",Yes,,,Yes,,,,,,Yes,,,,
+Mixon,Male,"
+              8 years old, ","Chicago, IL",https://www.adoptapet.com/pet/25283008-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",,Yes,,,,,,,,Yes,,,,Yes
+Morrie,Male,"
+              2 years old, ","Chicago, IL",https://www.adoptapet.com/pet/25281598-chicago-illinois-cat,Snowshoe,Tan or Fawn (Mostly),,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",,Yes,,Yes,,,,,,,,,,
+Handsome Grey,Male,"
+              8 years old, ","Chicago, IL",https://www.adoptapet.com/pet/25253929-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",,Yes,,Yes,Yes,,,,,,,Yes,,
+Vernon the Second,Male,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/25248982-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,Hyde Park Cats,"Hyde Park, Chicago, IL 60615",,Yes,,Yes,,,,,,,,,,
+Nala,Female,kitten,"Cicero, IL",https://www.adoptapet.com/pet/25345546-cicero-illinois-kitten,Domestic Shorthair,Brown or Chocolate (Mostly),888167,,"Private Owner (Cicero, IL)","Cicero, IL",,,,,,,,Yes,Yes,Yes,,Yes,,Yes
+King,Male,young,"Cicero, IL",https://www.adoptapet.com/pet/25367945-cicero-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,892726,,"Private Owner (Cicero, IL)","Cicero, IL",,,,,,,,,,,,,,
+Sage,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/21656615-chicago-illinois-cat,Domestic Shorthair,All Black,38453544,,Chicago Canine Rescue,"Chicago, IL",Yes,,,,,,,,,,,,,
+Cubata,Male,adult,"Oak Pak, IL",https://www.adoptapet.com/pet/24986339-oak-pak-illinois-cat,Domestic Shorthair,Brown or Chocolate,41193275,,Animal Care League,"Oak Pak, IL",,Yes,,,,,,,Yes,,,,,
+Dusky,Male,adult,"Oak Pak, IL",https://www.adoptapet.com/pet/24986340-oak-pak-illinois-cat,Domestic Shorthair,Brown or Chocolate,41193258,,Animal Care League,"Oak Pak, IL",,Yes,,,,,,,Yes,,,,,
+Porter,Male,adult,"Oak Pak, IL",https://www.adoptapet.com/pet/25289439-oak-pak-illinois-cat,Domestic Shorthair,White,41631842,,Animal Care League,"Oak Pak, IL",,Yes,,,,,,,Yes,,,,,
+Miss Cookie,Female,adult,"Oak Pak, IL",https://www.adoptapet.com/pet/25511548-oak-pak-illinois-cat,Domestic Shorthair,All Black,41631915,,Animal Care League,"Oak Pak, IL",Yes,,,,,,,,Yes,,,,,
+Gilderoy,Male,kitten,"Oak Pak, IL",https://www.adoptapet.com/pet/23212342-oak-pak-illinois-kitten,Domestic Shorthair,Gray or Blue,39090668,,Animal Care League,"Oak Pak, IL",,Yes,,,,,,,Yes,,,,,
+Odin,Male,adult,"Oak Pak, IL",https://www.adoptapet.com/pet/25510219-oak-pak-illinois-cat,Domestic Shorthair,Gray or Blue,41631937,,Animal Care League,"Oak Pak, IL",,Yes,,,,,,,Yes,,,,,
+Smokey,Male,kitten,"Oak Pak, IL",https://www.adoptapet.com/pet/25511425-oak-pak-illinois-kitten,Domestic Shorthair,Gray or Blue,41739840,,Animal Care League,"Oak Pak, IL",,Yes,,,,,,,Yes,,,,,
+Orion,Male,young,"Oak Pak, IL",https://www.adoptapet.com/pet/25511426-oak-pak-illinois-cat,Domestic Shorthair,White,41871569,,Animal Care League,"Oak Pak, IL",,Yes,,,,,,,Yes,,,,,
+Pretzel,Female,kitten,"Oak Pak, IL",https://www.adoptapet.com/pet/24890119-oak-pak-illinois-kitten,Domestic Shorthair,All Black,40738122,,Animal Care League,"Oak Pak, IL",Yes,,,,,,,,Yes,,,,,
+Tang,Male,adult,"Oak Pak, IL",https://www.adoptapet.com/pet/24828509-oak-pak-illinois-cat,Domestic Shorthair,Brown or Chocolate,41031032,,Animal Care League,"Oak Pak, IL",,Yes,,,,,,,Yes,,,,,
+Kumquat,Female,kitten,"Oak Pak, IL",https://www.adoptapet.com/pet/25516700-oak-pak-illinois-kitten,Domestic Shorthair,Orange or Red,41227772,,Animal Care League,"Oak Pak, IL",Yes,,,,,,,,Yes,,,,,
+Protea,Female,kitten,"Oak Pak, IL",https://www.adoptapet.com/pet/25516701-oak-pak-illinois-kitten,Domestic Shorthair,White,41387383,,Animal Care League,"Oak Pak, IL",Yes,,,,,,,,Yes,,,,,
+Luna,Female,young,"Oak Park, IL",https://www.adoptapet.com/pet/23942629-oak-park-illinois-cat,Domestic Longhair,All Black,614273,,"Private Owner (Oak Park, IL)","Oak Park, IL",,,,,,,,Yes,Yes,Yes,,Yes,,
+Leo,Male,young,"Oak Park, IL",https://www.adoptapet.com/pet/23942625-oak-park-illinois-cat,Domestic Longhair,All Black,614271,,"Private Owner (Oak Park, IL)","Oak Park, IL",,Yes,,,,,,Yes,Yes,,,Yes,,
+Judith,Female,young,"Oak Pak, IL",https://www.adoptapet.com/pet/24165339-oak-pak-illinois-cat,Domestic Mediumhair/Domestic Shorthair,All Black,40334045,,Animal Care League,"Oak Pak, IL",Yes,,,,,,,,Yes,,,,,
+Mr. Meowgi,Male,young,"Oak Pak, IL",https://www.adoptapet.com/pet/24778330-oak-pak-illinois-cat,Domestic Shorthair,Brown or Chocolate,40530524,,Animal Care League,"Oak Pak, IL",,Yes,,,,,,,Yes,,,,,
+Fozzy Bear,Male,young,"Oak Pak, IL",https://www.adoptapet.com/pet/24601193-oak-pak-illinois-cat,Domestic Shorthair,Brown or Chocolate,40443657,,Animal Care League,"Oak Pak, IL",,Yes,,,,,,,Yes,,,,,
+Sumatra,Female,adult,"Oak Pak, IL",https://www.adoptapet.com/pet/24975408-oak-pak-illinois-cat,Domestic Shorthair,All Black,41193111,,Animal Care League,"Oak Pak, IL",Yes,,,,,,,,Yes,,,,,
+Amunet,Female,adult,"Oak Pak, IL",https://www.adoptapet.com/pet/25291990-oak-pak-illinois-cat,Domestic Shorthair,All Black,40798788,,Animal Care League,"Oak Pak, IL",Yes,,,,,,,,Yes,,,,,
+Vinnie,Male,adult,"Oak Pak, IL",https://www.adoptapet.com/pet/18700120-oak-pak-illinois-cat,Domestic Shorthair,Tan or Fawn,20886459,,Animal Care League,"Oak Pak, IL",,Yes,,,,Yes,,,Yes,,,,,
+Stanley,Male,adult,"Oak Pak, IL",https://www.adoptapet.com/pet/23868734-oak-pak-illinois-cat,Domestic Shorthair,Tan or Fawn,40184896,,Animal Care League,"Oak Pak, IL",,Yes,,,,,,,Yes,,,,,
+Cian,Male,adult,"Oak Pak, IL",https://www.adoptapet.com/pet/24839583-oak-pak-illinois-cat,Domestic Shorthair,Tan or Fawn,40660577,,Animal Care League,"Oak Pak, IL",,Yes,,,,,,,Yes,,,,,
+Paige,Female,young,"Oak Pak, IL",https://www.adoptapet.com/pet/24890501-oak-pak-illinois-cat,Domestic Shorthair,White,19411469,,Animal Care League,"Oak Pak, IL",Yes,,,,,,,,Yes,,,,,
+Patchouli,Female,adult,"Oak Pak, IL",https://www.adoptapet.com/pet/25036671-oak-pak-illinois-cat,Domestic Shorthair,Gray or Blue,41193365,,Animal Care League,"Oak Pak, IL",Yes,,,,,,,,Yes,,,,,
+Wyatt,Male,adult,"Oak Pak, IL",https://www.adoptapet.com/pet/24399615-oak-pak-illinois-cat,Domestic Shorthair,All Black,40583287,,Animal Care League,"Oak Pak, IL",,Yes,,,,,,,Yes,,,,,
+Bastet,Female,adult,"Oak Pak, IL",https://www.adoptapet.com/pet/24892638-oak-pak-illinois-cat,Domestic Shorthair,Orange or Red,40879991,,Animal Care League,"Oak Pak, IL",Yes,,,,,,,,Yes,,,,,
+Cheese,Male,kitten,"Oak Pak, IL",https://www.adoptapet.com/pet/24890120-oak-pak-illinois-kitten,Domestic Shorthair,All Black,40743037,,Animal Care League,"Oak Pak, IL",,Yes,,,,,,,Yes,,,,,
+Bettie,Female,adult,"Oak Pak, IL",https://www.adoptapet.com/pet/24828012-oak-pak-illinois-cat,Domestic Shorthair,Brown or Chocolate,41031020,,Animal Care League,"Oak Pak, IL",Yes,,,,,,,,Yes,,,,,
+Anoush,Female,adult,"Oak Pak, IL",https://www.adoptapet.com/pet/22140229-oak-pak-illinois-cat,Domestic Shorthair,Brown or Chocolate,38689841,,Animal Care League,"Oak Pak, IL",Yes,,,,,,,,Yes,,,,,
+Padme,Female,adult,"Oak Pak, IL",https://www.adoptapet.com/pet/20530997-oak-pak-illinois-cat,Domestic Shorthair,All Black,37548488,,Animal Care League,"Oak Pak, IL",Yes,,,,,,,,Yes,,,,,
+Hamilton,Male,young,"Oak Pak, IL",https://www.adoptapet.com/pet/24122965-oak-pak-illinois-cat,Domestic Shorthair,All Black,40358299,,Animal Care League,"Oak Pak, IL",,Yes,,,,,,,Yes,,,,,
+Coulson,Male,young,"Oak Pak, IL",https://www.adoptapet.com/pet/25160771-oak-pak-illinois-cat,Domestic Shorthair,All Black,41159939,,Animal Care League,"Oak Pak, IL",,Yes,,,,,,,,,,,,
+BB King Fisher,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25118376-chicago-illinois-cat,Domestic Shorthair,Orange or Red,41363125,,Tree House Humane Society,"Chicago, IL",,Yes,,,,,,,,,,,,
+Carter,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/21054982-chicago-illinois-cat,Domestic Shorthair,Orange or Red (Mostly),,short,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Charm,Male,kitten,"Chicago, IL",https://www.adoptapet.com/pet/19724617-chicago-illinois-kitten,Maine Coon,"Gray, Blue or Silver Tabby",,long,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Simba,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/21054467-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,,short,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Sweetie,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/12566268-chicago-illinois-cat,Russian Blue,Gray or Blue (Mostly),,short,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Jackie,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/12626527-chicago-illinois-cat,Russian Blue,Gray or Blue (Mostly),,short,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Alexis,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/15295725-chicago-illinois-cat,Maine Coon,Brown Tabby,,long,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Emily,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/15792095-chicago-illinois-cat,Domestic Shorthair,Gray or Blue (Mostly),,short,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Adam,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/12545900-chicago-illinois-cat,Domestic Shorthair,White (Mostly),,short,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+April,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/12546367-chicago-illinois-cat,Domestic Shorthair,Gray or Blue (Mostly),,short,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Asia,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/12545778-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,,short,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Alex,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/12545916-chicago-illinois-cat,Domestic Shorthair,"Gray, Blue or Silver Tabby",,short,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Storm,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/12546077-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Buff,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/12546114-chicago-illinois-cat,Domestic Shorthair,Orange or Red,,short,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Tiger,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/12546618-chicago-illinois-cat,Domestic Shorthair,Orange or Red,,short,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Prince Naseem,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/12566142-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,,short,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Barbie,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/12566227-chicago-illinois-cat,Calico,Calico or Dilute Calico,,short,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Rosemary,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/12670391-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,,short,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Batman,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/12670400-chicago-illinois-cat,Domestic Shorthair,All Black,,short,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Princess,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/12669917-chicago-illinois-cat,American Shorthair,Black & White or Tuxedo,,short,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Pretty Girl,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/12566671-chicago-illinois-cat,Domestic Shorthair,Calico or Dilute Calico,,short,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Onyx,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/12669989-chicago-illinois-cat,Domestic Shorthair,Black (Mostly),,short,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Pip,Male,kitten,"Chicago, IL",https://www.adoptapet.com/pet/14483989-chicago-illinois-kitten,Maine Coon,Black (Mostly),,long,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Whitesocks,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/12670360-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Sam,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/23354158-chicago-illinois-cat,Domestic Shorthair,"Gray, Blue or Silver Tabby",,short,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Queen,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/12669954-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Timothy,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/14095657-chicago-illinois-cat,Domestic Shorthair,Gray or Blue (Mostly),,short,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Kahlua,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/13777235-chicago-illinois-cat,Domestic Shorthair,All Black,,short,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Jewel,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/17926081-chicago-illinois-cat,Domestic Shorthair,Tortoiseshell,,short,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Abbie,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/17754359-chicago-illinois-cat,Siberian,Calico or Dilute Calico,,long,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Adena,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/24401277-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Tammy,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/12546489-chicago-illinois-cat,Calico,Calico or Dilute Calico,,short,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Brahmin,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/24401286-chicago-illinois-cat,Bombay,All Black,,short,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Romeo,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/24401462-chicago-illinois-cat,Domestic Shorthair,Gray or Blue (Mostly),,short,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Tiffany,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/24401320-chicago-illinois-cat,Russian Blue,Gray or Blue (Mostly),,short,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Blackie,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/24401477-chicago-illinois-cat,Domestic Shorthair,All Black,,short,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Precious,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/17926089-chicago-illinois-cat,Siberian,Calico or Dilute Calico,,long,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Mooney,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/14609574-chicago-illinois-cat,Siamese,Gray or Blue (Mostly),,short,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Leo,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/12566248-chicago-illinois-cat,Domestic Longhair,Orange or Red (Mostly),,long,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+George Clooney,Male,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/22724885-chicago-illinois-cat,Siberian,Black & White or Tuxedo,,long,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Curtis,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/23354134-chicago-illinois-cat,Maine Coon,"Gray, Blue or Silver Tabby",,long,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Mowsers,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/23353762-chicago-illinois-cat,Siamese,Gray or Blue (Mostly),,short,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Boots,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/22725188-chicago-illinois-cat,Domestic Shorthair,"Gray, Blue or Silver Tabby",,short,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Mike,Male,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/22725161-chicago-illinois-cat,Maine Coon,"Gray, Blue or Silver Tabby",,long,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Munchkin,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/23353811-chicago-illinois-cat,Maine Coon,"Gray, Blue or Silver Tabby",,long,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Jerry Garcia,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/15793542-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Janu,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/12670366-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Coffee Bean,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/24401261-chicago-illinois-cat,Domestic Shorthair,"Gray, Blue or Silver Tabby",,short,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Delilah,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/24401501-chicago-illinois-cat,Siberian,Tan or Fawn,,long,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Macchiato,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/23353950-chicago-illinois-cat,Russian Blue,Gray or Blue,,short,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Espresso,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/23354108-chicago-illinois-cat,Bombay,All Black,,short,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Nighthawk,Male,"
+              1 year old, ","Chicago, IL",https://www.adoptapet.com/pet/24401249-chicago-illinois-cat,Bombay,All Black,,short,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Hannah,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/21054868-chicago-illinois-cat,Siberian,Orange or Red Tabby,,long,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Lily,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/24401432-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Fergi,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/24401518-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Phil,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/24401376-chicago-illinois-cat,Russian Blue,Gray or Blue (Mostly),,short,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Felix,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/24401389-chicago-illinois-cat,Domestic Shorthair,"Gray, Blue or Silver Tabby",,short,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+David,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/13777227-chicago-illinois-cat,Domestic Shorthair,All Black,,short,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Raja,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/16645745-chicago-illinois-cat,Maine Coon,Gray or Blue (Mostly),,long,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Misty,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/12670168-chicago-illinois-cat,Bengal,"Gray, Blue or Silver Tabby",,short,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Desi,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/25381314-chicago-illinois-cat,Maine Coon,Gray or Blue (Mostly),,long,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Butternut,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/15018016-chicago-illinois-cat,Domestic Shorthair,White (Mostly),,short,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Forrest,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25380984-chicago-illinois-cat,Domestic Shorthair,Orange or Red Tabby,,short,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Oscar,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25381280-chicago-illinois-cat,Siberian,Orange or Red,,long,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Selma,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/25381304-chicago-illinois-cat,Siberian,Orange or Red,,long,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Alexandra,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/25381344-chicago-illinois-cat,Maine Coon,Brown Tabby,,long,Hi Kitty Kitty,"Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Aaron,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25381263-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Thomas,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25381322-chicago-illinois-cat,Domestic Shorthair,Orange or Red Tabby,,short,Hi Kitty Kitty,"Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Butler,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/22999494-chicago-illinois-cat,Domestic Longhair,Brown Tabby,,short,Red Door Animal Shelter,"2410 W Lunt, Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Pantera,Female,senior,"Chicago, IL",https://www.adoptapet.com/pet/9147299-chicago-illinois-cat,Domestic Longhair,All Black,,long,Red Door Animal Shelter,"2410 W Lunt, Chicago, IL 60645",Yes,,,Yes,,,Yes,,,Yes,,,Yes,
+Macavity,Female,"
+              7 years old, ","Chicago, IL",https://www.adoptapet.com/pet/24013183-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,,short,Red Door Animal Shelter,"2410 W Lunt, Chicago, IL 60645",,,,Yes,,,,Yes,,,Yes,Yes,,
+Simba,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/12088761-chicago-illinois-cat,Domestic Shorthair,Orange or Red Tabby,,short,Red Door Animal Shelter,"2410 W Lunt, Chicago, IL 60645",,Yes,,Yes,Yes,,,,,,Yes,,,Yes
+Victor,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/14262557-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,Red Door Animal Shelter,"2410 W Lunt, Chicago, IL 60645",,Yes,,Yes,Yes,,Yes,,,,Yes,,Yes,
+Raphael,Male,kitten,"Chicago, IL",https://www.adoptapet.com/pet/23922506-chicago-illinois-kitten,Domestic Shorthair,Gray or Blue (Mostly),,short,Red Door Animal Shelter,"2410 W Lunt, Chicago, IL 60645",,Yes,,Yes,,,,,,Yes,,,,
+Donatello,Male,kitten,"Chicago, IL",https://www.adoptapet.com/pet/23922474-chicago-illinois-kitten,Domestic Shorthair,Gray or Blue (Mostly),,short,Red Door Animal Shelter,"2410 W Lunt, Chicago, IL 60645",,Yes,,Yes,,,,,,Yes,,,,
+Ramona,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/21150649-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,Red Door Animal Shelter,"2410 W Lunt, Chicago, IL 60645",Yes,,,Yes,,,Yes,,,Yes,,,Yes,
+Buick,Male,senior,"Chicago, IL",https://www.adoptapet.com/pet/13567779-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,,short,Red Door Animal Shelter,"2410 W Lunt, Chicago, IL 60645",,Yes,,Yes,Yes,,Yes,,,Yes,,,Yes,
+Mr. Pickles,Male,kitten,"Chicago, IL",https://www.adoptapet.com/pet/24976323-chicago-illinois-kitten,Domestic Shorthair,All Black,,short,Red Door Animal Shelter,"2410 W Lunt, Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Jebediah,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/24976330-chicago-illinois-cat,Domestic Shorthair,Gray or Blue (Mostly),,short,Red Door Animal Shelter,"2410 W Lunt, Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Hatti,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/24976311-chicago-illinois-cat,Domestic Shorthair,Gray or Blue (Mostly),,short,Red Door Animal Shelter,"2410 W Lunt, Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Bobbi Jean,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/24976229-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,,short,Red Door Animal Shelter,"2410 W Lunt, Chicago, IL 60645",Yes,,,Yes,,,,,,,,,,
+Falafel,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/24976405-chicago-illinois-cat,Domestic Shorthair,Orange or Red Tabby,,short,Red Door Animal Shelter,"2410 W Lunt, Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Austin,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/9015579-chicago-illinois-cat,Domestic Shorthair,Spotted Tabby/Leopard Spotted,,short,Red Door Animal Shelter,"2410 W Lunt, Chicago, IL 60645",,Yes,,Yes,,,Yes,,,Yes,,,Yes,Yes
+Belle & Mrs. Potts,Female,kitten,"Chicago, IL",https://www.adoptapet.com/pet/24146632-chicago-illinois-kitten,Domestic Shorthair,Gray or Blue (Mostly),,short,Red Door Animal Shelter,"2410 W Lunt, Chicago, IL 60645",Yes,,,Yes,Yes,,,,,,,,,
+Dulche,Male,senior,"Chicago, IL",https://www.adoptapet.com/pet/11866202-chicago-illinois-cat,Domestic Longhair,White,,long,Red Door Animal Shelter,"2410 W Lunt, Chicago, IL 60645",,Yes,,Yes,,,Yes,,,,Yes,,Yes,
+Cletus,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25003546-chicago-illinois-cat,Domestic Shorthair,Brown Tabby,,short,Red Door Animal Shelter,"2410 W Lunt, Chicago, IL 60645",,Yes,,Yes,,,,,,Yes,,,,
+Goggles,Male,young,"Chicago, IL",https://www.adoptapet.com/pet/25003559-chicago-illinois-cat,Domestic Shorthair,Orange or Red (Mostly),,short,Red Door Animal Shelter,"2410 W Lunt, Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Archie,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/9840918-chicago-illinois-cat,American Shorthair,"Gray, Blue or Silver Tabby",,short,Red Door Animal Shelter,"2410 W Lunt, Chicago, IL 60645",,Yes,,Yes,Yes,,,,,Yes,,,,
+Lemmy,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25138152-chicago-illinois-cat,Domestic Mediumhair,"Gray, Blue or Silver Tabby",,medium,Red Door Animal Shelter,"2410 W Lunt, Chicago, IL 60645",,Yes,,Yes,,,,,,,,,,
+Sarah Dale,Female,young,"Chicago, IL",https://www.adoptapet.com/pet/25260266-chicago-illinois-cat,Domestic Shorthair,Tan or Fawn (Mostly),,short,Red Door Animal Shelter,"2410 W Lunt, Chicago, IL 60645",Yes,,,Yes,,,,,,Yes,,,,
+Iggy,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/25289296-chicago-illinois-cat,Domestic Shorthair,Black & White or Tuxedo,,short,Red Door Animal Shelter,"2410 W Lunt, Chicago, IL 60645",,Yes,,Yes,,,,,,Yes,,,,
+Ozzball,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/21630219-chicago-illinois-cat,Domestic Shorthair,Gray or Blue,35628388,,Tree House Humane Society,"Chicago, IL",,Yes,,,,,,,,,,,,
+Brandy,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/23853320-chicago-illinois-cat,Domestic Shorthair,Brown or Chocolate,38559164,,Tree House Humane Society,"Chicago, IL",Yes,,,,,,,,,,,,,
+Frisky,Male,adult,"Chicago, IL",https://www.adoptapet.com/pet/24156503-chicago-illinois-cat,Domestic Shorthair,Brown or Chocolate,40305683,,Tree House Humane Society,"Chicago, IL",,Yes,,,,,,,,,,,,
+Olga,Female,adult,"Chicago, IL",https://www.adoptapet.com/pet/24696267-chicago-illinois-cat,Domestic Shorthair,All Black,40785515,,Tree House Humane Society,"Chicago, IL",Yes,,,,,,,,,,,,,
