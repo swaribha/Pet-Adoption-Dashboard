@@ -127,10 +127,10 @@ def scrape_pet_info(pet_type):
                 p_soup = BeautifulSoup(p_html, 'html.parser')
 
                 # Check that pet page still exists
-                if(result.find('div', class_='pet-error')):
+                if(p_soup.find('div', class_='pet-error')):
                     #print("Pet Not Found")
-                    print(result.a['href'])
-                    print(result.find('div', class_='pet-error').div.h3.text)
+                    print(p_soup.a['href'])
+                    print(p_soup.find('div', class_='pet-error').div.h3.text)
                     pass
                 else:
                     # Store information into a dictionary
