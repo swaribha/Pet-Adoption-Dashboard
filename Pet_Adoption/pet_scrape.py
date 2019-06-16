@@ -115,7 +115,7 @@ def scrape_pet_info(pet_type):
                 pet_name = result.find(
                     attrs={"data-pet-card": "pet-card-heading"}).text.strip()
                 # Format location name so that only the first letter of city is capitalized
-                location = result.find(attrs={"data-pet-card": "city"}).text.strip().text.strip().title() \
+                location = result.find(attrs={"data-pet-card": "city"}).text.strip().title() \
                     + ", " + \
                     result.find(attrs={"data-pet-card": "state"}).text.strip().upper()
                 link = result.a['href']
@@ -128,7 +128,7 @@ def scrape_pet_info(pet_type):
 
                 # Check that pet page still exists
                 if(p_soup.find('div', class_='pet-error')):
-                    #print("Pet Not Found")
+                    print("Pet Not Found")
                     print(p_soup.a['href'])
                     print(p_soup.find('div', class_='pet-error').div.h3.text)
                     pass
