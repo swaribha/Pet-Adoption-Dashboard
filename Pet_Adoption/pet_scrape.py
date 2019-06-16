@@ -20,8 +20,13 @@ from config import api_key
 
 def init_browser():
     # defining browser using splinter
-    executable_path = {'executable_path': 'chromedriver.exe'}
+    # for windows
+    # executable_path = {'executable_path': 'chromedriver.exe'}
+    # return Browser('chrome', **executable_path, headless=False)
+    # for mac
+    executable_path = {'executable_path': '/usr/local/bin/chromedriver'}
     return Browser('chrome', **executable_path, headless=False)
+
 
 # Recodes the cat/dog age to one of the age groups (kitten, puppy, young, adult, senior), if needed
 def assign_age_group (pet_type, age_string):
