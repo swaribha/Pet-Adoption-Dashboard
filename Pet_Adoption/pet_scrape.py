@@ -100,27 +100,34 @@ def scrape_pet_info(pet_type):
     # Loop through each page of results. There are up to 40 results per page.
         for result in results:
             try:
+                # # Check that pet page still exists
+                # if(result.find('div', class_='pet-error')):
+                #     print(result.a['href'])
+                #     print(result.find('div', class_='pet-error').div.h3.text)
+                #     pass
+                # else:
+                # print(result)
+                pet_name = result.find(
+                    attrs={"data-pet-card": "pet-card-heading"}).text.strip()
+                # Format location name so that only the first letter of city is capitalized
+                location = result.find(attrs={"data-pet-card": "city"}).text.strip().text.strip().title() \
+                    + ", " + \
+                    result.find(attrs={"data-pet-card": "state"}).text.strip().upper()
+                link = result.a['href']
+                # print(link)
+
+                # visit the link to the pet page
+                browser.visit(link)
+                p_html = browser.html
+                p_soup = BeautifulSoup(p_html, 'html.parser')
+
                 # Check that pet page still exists
                 if(result.find('div', class_='pet-error')):
+                    #print("Pet Not Found")
                     print(result.a['href'])
                     print(result.find('div', class_='pet-error').div.h3.text)
                     pass
                 else:
-                    # print(result)
-                    pet_name = result.find(
-                        attrs={"data-pet-card": "pet-card-heading"}).text.strip()
-                    # Format location name so that only the first letter of city is capitalized
-                    location = result.find(attrs={"data-pet-card": "city"}).text.strip().lower().capitalize() \
-                        + ", " + \
-                        result.find(attrs={"data-pet-card": "state"}).text.strip().upper()
-                    link = result.a['href']
-                    # print(link)
-
-                    # visit the link to the pet page
-                    browser.visit(link)
-                    p_html = browser.html
-                    p_soup = BeautifulSoup(p_html, 'html.parser')
-
                     # Store information into a dictionary
                     pet_card = {
                         'pet_name': pet_name,
