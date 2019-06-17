@@ -87,7 +87,7 @@ def scrape_pet_info(pet_type):
     print("There are " + str(num_pages) + " pages of search results")
     next_page_url = url + "#current_page="
     print(next_page_url)
-    for page_num in range(1, int(num_pages)+1):
+    for page_num in range(1,int(num_pages)+1):
 
         next_page_url = url + "#current_page=" + str(page_num)
         # print(next_page_url)
@@ -220,12 +220,14 @@ def scrape_pet_info(pet_type):
                 print(result.a['href'])
                 print(err)
                 pass
+    # Quit browser after scraping
+    browser.quit()
 
 # function to store data
 def createDBConnection():
     conn = 'mongodb://localhost:27017'
     client = pymongo.MongoClient(conn)
-    db = client.pets
+    db = client.pets2
     # db.pets_info.drop()
     return db
 
@@ -269,11 +271,10 @@ def addingLocationPet():
         # db.pets_info.find({})
         # db.pets_info.update_many({ "address": address },{$set: { 'location_data': location_data[address]}})
 
+# pet_scrape.scrape_pet_info('cat')
+# pet_scrape.scrape_pet_info('dog')
+# pet_scrape.addingLocationPet()
 
-
-scrape_pet_info('cat')
-scrape_pet_info('dog')
-addingLocationPet()
 # print(api_key)
 # gmaps = googlemaps.Client(key=api_key)
 

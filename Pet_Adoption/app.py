@@ -1,5 +1,5 @@
 import os
-from flask import Flask, jsonify, render_template
+from flask import Flask, jsonify, render_template, redirect
 import pymongo
 import pet_scrape
 import json
@@ -17,6 +17,12 @@ def index():
     """Return the homepage."""
     return render_template("index.html")
 
+@app.route("/scrape")
+def scrape():
+    pet_scrape.scrape_pet_info('cat')
+    pet_scrape.scrape_pet_info('dog')
+    pet_scrape.addingLocationPet()
+    return redirect("/", code=302)
 
 @app.route("/cats")
 def cats():
