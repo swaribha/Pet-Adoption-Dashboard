@@ -227,15 +227,15 @@ def scrape_pet_info(pet_type):
 def createDBConnection():
     conn = 'mongodb://localhost:27017'
     client = pymongo.MongoClient(conn)
-    db = client.pets2
+    db = client.pets
     # db.pets_info.drop()
     return db
 
 def store_pet_data(pet_card):   
-        db=createDBConnection()
-  
-        # print("inside insert")
-        db.pets_info.insert_one(pet_card)
+    db=createDBConnection()
+
+    # print("inside insert")
+    db.pets_info.insert_one(pet_card)
 
 def addingLocationPet():
 
@@ -270,10 +270,6 @@ def addingLocationPet():
     # for address in unique_address:
         # db.pets_info.find({})
         # db.pets_info.update_many({ "address": address },{$set: { 'location_data': location_data[address]}})
-
-# pet_scrape.scrape_pet_info('cat')
-# pet_scrape.scrape_pet_info('dog')
-# pet_scrape.addingLocationPet()
 
 # print(api_key)
 # gmaps = googlemaps.Client(key=api_key)
