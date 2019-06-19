@@ -33,7 +33,6 @@ def cats():
     return dumps(cats)
     # Return a list of the column names (sample names)
     # return jsonify({'cats':cats})
-    # return jsonify({"hi":"world"})
 
 
 @app.route("/dogs")
@@ -46,3 +45,4 @@ def dogs():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
