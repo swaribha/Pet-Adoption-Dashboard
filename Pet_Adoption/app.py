@@ -15,6 +15,7 @@ db=pet_scrape.createDBConnection()
 @app.route("/")
 def index():
     """Return the homepage."""
+    scrape()
     return render_template("index.html")
 
 @app.route("/scrape")

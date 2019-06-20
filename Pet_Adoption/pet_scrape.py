@@ -5,6 +5,7 @@ import requests
 import time
 import pandas as pd
 import googlemaps
+import os
 
 import re
 import pymongo
@@ -225,7 +226,9 @@ def scrape_pet_info(pet_type):
 
 # function to store data
 def createDBConnection():
-    conn = 'mongodb://localhost:27017'
+    #app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('MONGODB_URI', '') or "mongodb://localhost:27017"
+    #conn = 'mongodb://localhost:27017'
+    conn = os.environ.get('MONGODB_URI', '') or "mongodb://localhost:27017"
     client = pymongo.MongoClient(conn)
     db = client.pets
     # db.pets_info.drop()
