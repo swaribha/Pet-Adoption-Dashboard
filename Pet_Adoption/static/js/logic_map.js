@@ -20,6 +20,8 @@ function createMap(catdata, dogdata){
     'Dogs For Adoption': layers.Dogs
   };
   L.control.layers(null, overlay, {collapsed:false}).addTo(myMap);
+  
+  //myMap.attributionControl.addAttribution('');
 
   // Add a tile layer
   L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
@@ -119,6 +121,24 @@ function createMap(catdata, dogdata){
           + "Private Owners: " + marker.private + "<br>" );  
     marker_item.addTo(layers['Dogs']);
   }
+
+  var rescue_cats = countRescuesAndPrivate(catdata);
+  var rescue_dogs = countRescuesAndPrivate(dogdata);
+  
+  var map_desc = d3.select('#map-desc-cats')
+                  .append('p')
+                  .style("margin-top", 0)
+                  .style("margin-bottom", 0)
+                  .text("Cats: There are " + rescue_cats[0].value.counts + " from " + rescue_cats[0].key
+                  + "s and " + rescue_cats[1].value.counts + " at " + rescue_cats[1].key + "s.");
+                  
+  var map_desc = d3.select('#map-desc-dogs')
+                  .append('p')
+                  .style("margin-top", 0)
+                  .style("margin-bottom", 10)
+                  .text("Dogs: There are " + rescue_dogs[0].value.counts + " from " + rescue_dogs[0].key
+                  + "s and " + rescue_dogs[1].value.counts + " at " + rescue_dogs[1].key + "s.");
+
 }
 
 // For Testing Purposes:
@@ -142,3 +162,19 @@ function createMap(catdata, dogdata){
 //   } })
 //   .entries(catdata)
 // console.log(counts_by_location_data);
+
+function countRescuesAndPrivate(petdata){
+  var counts_data = d3.nest()
+    .key(function(d) { 
+        if( d.rescue == 'Private Owner'){
+          return d.rescue; 
+        } else {
+          return 'Rescue';
+        }})
+    .rollup(function(v) { return {
+        counts: v.length,
+    } })
+    .entries(petdata)
+  //console.log(counts_data);
+  return counts_data;
+}
