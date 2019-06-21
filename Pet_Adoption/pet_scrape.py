@@ -12,6 +12,7 @@ import pymongo
 
 import datetime as dt
 from config import api_key
+import sys
 
 # Creating the type of animals we want to search
 # pet_type = ['cat', 'dog']
@@ -22,11 +23,17 @@ from config import api_key
 def init_browser():
     # defining browser using splinter
     # for windows
-    # executable_path = {'executable_path': 'chromedriver.exe'}
-    # return Browser('chrome', **executable_path, headless=False)
-    # for mac
-    executable_path = {'executable_path': '/usr/local/bin/chromedriver'}
-    return Browser('chrome', **executable_path, headless=False)
+    # import sys# its win32, maybe there is win64 too?
+    is_windows = sys.platform.startswith('win')
+    if(is_windows):
+        executable_path = {'executable_path': 'chromedriver.exe'}
+        print("in windows")
+        return Browser('chrome', **executable_path, headless=False)
+    else: 
+        # for mac
+        executable_path = {'executable_path': '/usr/local/bin/chromedriver'}
+        print("in Mac")
+        return Browser('chrome', **executable_path, headless=False)
 
 
 # Recodes the cat/dog age to one of the age groups (kitten, puppy, young, adult, senior), if needed
@@ -280,3 +287,4 @@ def addingLocationPet():
 # # Geocoding an address
 # geocode_result = gmaps.geocode('1600 Amphitheatre Parkway, Mountain View, CA')
 # print(geocode_result[0]['geometry']['location'])
+init_browser()
