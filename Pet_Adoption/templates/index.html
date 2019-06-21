@@ -12,8 +12,8 @@
     <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css"> -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
     <!-- CSS Stylesheet -->
-    <!-- <link rel="stylesheet" href="assets/css/styles.css" media="screen"> -->
-
+    <!-- <link rel="stylesheet" href="style.css" media="screen"> -->
+    
 </head>
 
 <body>
@@ -26,68 +26,101 @@
         <!-- Top row with intro and pie charts -->
         <section class="row">
             <div class="col-sm-12 jumbotron text-center">
-                <div class="dropdown">
-                    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">
-                        Select a City
-                        <span class="caret"></span></button>
-                    <ul class="dropdown-menu">
-                        <li><a href="#">Chicago</a></li>
-                        <li><a href="#">Seattle</a></li>
-                        <li><a href="#">Boston</a></li>
-                    </ul>
-                </div>
                 <h2>Pet Adoption Dashboard</h2>
-                <p>Here is a paragraph about what we see</p>
+                <p>The data was scraped from 
+                  <a href="https://www.adoptapet.com/">adoptapet.com</a>.
+                  It contains information on 520 cats and 520 dogs that are available for adoption 
+                  within 50 miles of Chicago, IL. The web scraping was performed using Python, Beautiful Soup, and Splinter.
+                  The data is then stored in a MongoDB database. 
+                  Libraries used for generating the following visualizations include Leaflet.JS, Plotly.JS, and Chart.JS.
+                </p>
+                <p class="text-left">The following routes are available:
+                  <table>
+                    <tr>
+                      <td>
+                          <ul class="text-left" style="list-style: none">
+                              <li>/scrape</li>
+                              <li>/cats</li>
+                              <li>/dogs</li>
+                      </td>
+                      <td>
+                          <ul class="text-left" style="list-style: none">
+                              <li>to scrape new data (approx. 20 minutes to complete)</li>
+                              <li>to display cat data in json format</li>
+                              <li>to display dog data in json format</li>
+                      </td>
+                    </tr>
+                  </table> 
+                </ul>
+                </p>
             </div>
         </section>
         <section class="row">
-            <div class="col-sm-3">
+            <div class="col-sm-12 text-center">
+                <h3>What kind of pets are available?</h3>
+                <p>Here are pet details based on sex, age, and breed.</p>
+            </div>
+        </section>
+        <section class="row">
+            <select id="selDataset" onchange="selection(this.value)">
+                <option>Age</option>
+                <option>Sex</option>
+                <option>Breed</option>
+            </select>
+        </section>
+        <section id="sexPlots" class="row">
+            <div class="col-sm-6">
                 <canvas id="catGender" width="80" height="80"></canvas>
             </div>
-            <div class="col-sm-3">
-                <canvas id="catAge" width="80" height="80"></canvas>
-            </div>
-            <div class="col-sm-3">
-                <canvas id="catProcedure" width="80" height="80"></canvas>
-            </div>
-            <div class="col-sm-3">
-                <canvas id="catBreed" width="80" height="80"></canvas>
-            </div>
-        </section>
-        <section class="row">
-            <div class="col-sm-3">
+            <div class="col-sm-6">
                 <canvas id="dogGender" width="80" height="80"></canvas>
             </div>
-            <div class="col-sm-3">
+        </section>
+        <section id="agePlots" class="row">
+            <div class="col-sm-6">
+                <canvas id="catAge" width="80" height="80"></canvas>
+            </div>
+            <div class="col-sm-6">
                 <canvas id="dogAge" width="80" height="80"></canvas>
             </div>
-            <div class="col-sm-3">
-                <canvas id="dogProcedure" width="80" height="80"></canvas>
+        </section>
+        <section id="breedPlots" class="row">
+            <div class="col-sm-6">
+                <canvas id="catBreed" width="80" height="80"></canvas>
             </div>
-            <div class="col-sm-3">
+            <div class="col-sm-6">
                 <canvas id="dogBreed" width="80" height="80"></canvas>
             </div>
         </section>
 
         <!-- Next row with map and bar chart -->
         <section class="row">
-            <!-- <div class="col-sm-6">
-                <div id="map"></div>
-                <p>This can be a map</p>
-                <img src="https://cdn.onlyinyourstate.com/wp-content/uploads/2015/11/z338.jpg">
-            </div> -->
-            <div class="col-sm-12">
-                <div id="bar"></div>
+            <div class="col-md-12 text-center">
+              <h3>Where are these pets located?</h3>
+              <p>They can be found at local rescues and also with private owners.</p>
+              <div id="map-desc-cats" class="col-md-12 text-center"></div>
+              <div id="map-desc-dogs" class="col-md-12 text-center"></div>
+              <div id="map" style="width: 100%; height: 400px"></div>
+            </div>
+        </section>
+        
+        <section class="row">
+            <div class="col-sm-12 text-center">
+              <h3>What are their names?</h3>
+              <p>These were the most common names found in the dataset.
+                Hover over each name to see its frequency count.
+              </p>
+              <div class="col-sm-6">
+                <h4>Cats</h4>
+                <div id="wordcloud-cats"></div>
+              </div>
+              <div class="col-sm-6">
+                <h4>Dogs</h4>
+                <div id="wordcloud-dogs"></div>
+              </div>
             </div>
         </section>
     </div>
-
-    <div class="row">
-        <div class="col-md-12">
-            <div id="map" style="width: 600px; height: 400px"></div>
-        </div>
-    </div>
-
 
     <!-- Footer Here -->
     <footer class="footer navbar">
@@ -101,6 +134,8 @@
     </footer>
 
     <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="{{ url_for('static', filename='js/d3.layout.cloud.js') }}"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0/dist/Chart.min.js"></script>
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/chart.js@2.8.0/dist/Chart.css">
@@ -114,7 +149,6 @@
         integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
         crossorigin=""></script>
 
-
     <!-- API key -->
     <script src="{{ url_for('static', filename='js/config.js') }}"></script>
 
@@ -122,6 +156,7 @@
     <script src="{{ url_for('static', filename='js/app.js') }}"></script>
     <script src="{{ url_for('static', filename='js/logic_map.js') }}"></script>
     <script src="{{ url_for('static', filename='js/logic_charts.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/logic_tagcloud.js') }}"></script>
 
 
 </body>
